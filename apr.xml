@@ -1167,6 +1167,8 @@
 				</allauthors>
 			</entry>
 		</issue>
+	</volume>
+	<volume vnum="29">
 		<issue inum="01" month="10" year="2011">
 			<entry>
 				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
@@ -1471,8 +1473,6 @@
 				</allauthors>
 			</entry>
 		</issue>
-	</volume>
-	<volume vnum="29">
 		<issue inum="04" month="01" year="2012">
 			<entry>
 				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
@@ -2457,6 +2457,8 @@
 				</allauthors>
 			</entry>
 		</issue>
+	</volume>
+	<volume vnum="30">
 		<issue inum="01" month="10" year="2012">
 			<entry>
 				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
@@ -2813,8 +2815,6 @@
 				</allauthors>
 			</entry>
 		</issue>
-	</volume>
-	<volume vnum="30">
 		<issue inum="04" month="01" year="2013">
 			<entry>
 				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
@@ -3861,6 +3861,8 @@
 				</allauthors>
 			</entry>
 		</issue>
+	</volume>
+	<volume vnum="31">
 		<issue inum="01" month="10" year="2013">
 			<entry>
 				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
@@ -4219,8 +4221,6 @@
 				</allauthors>
 			</entry>
 		</issue>
-	</volume>
-	<volume vnum="31">
 		<issue inum="04" month="01" year="2014">
 			<entry>
 				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
@@ -5390,6 +5390,114 @@
 			</entry>
 			<entry>
 				<title>ಶುದ್ದ ಅಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="32">
+		<issue inum="01" month="10" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೋವಿಕೋವ್</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅರಮನೆ ವಿಶೇಷಗಳು</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೈಸೂರುಪಾಕ್ ನ ....</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಆರತಿ ಘಟಿಕಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಪಂಧ</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಚಿತದ ಮಹಾತ್ಮೆ</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಸು. ವಿಜಯಲಕ್ಷ್ಮಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೌರವ ಡಾಕ್ಟೊರೇಟ್</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname=""> ಸಿ. ಅರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಯಿ</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ಪಾಡು ಗುಂಡುರಾವ್ ದೇಸಾಯಿ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಕೊನೆಯ ಜರ್ನಿ</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ರಮ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಾಪೂಜಿ ಮತ್ತು.....</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ ಐತಾಳ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಲಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುಧ್ದ ಅಸುದ್ದಿ</title>
 				<feature></feature>
 				<page>40</page>
 				<allauthors>
