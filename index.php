@@ -67,7 +67,7 @@ session_start();
 			$currentmonth=$row['month'];
 			
 			echo "<div class=\"holder\">";
-			echo "<div class=\"holder_title\"><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\">".$month[$currentmonth-1]." ".$currentyear."</a>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"php/images/theme.png\" alt=\"Theme Image\"/></div>";
+			echo "<div class=\"holder_title\"><img src=\"php/images/theme.png\" alt=\"Theme Image\"/><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\">".$month[$currentmonth-1]." ".$currentyear."</a><img src=\"php/images/theme1.png\" alt=\"Theme Image\"/></div>";
 			echo "<div class=\"holder_area\">";
 			$result=mysql_query("select * from article where volume = $volume and issue= $issue ");
 			$num_rows=	mysql_num_rows($result);
