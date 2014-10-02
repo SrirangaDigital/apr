@@ -3,8 +3,8 @@
 	$usr="root";
 	$pwd="mysql";
 	$db="apr";
-	$volume='31';
-	$issue='12';
+	$volume='32';
+	$issue='01';
 	
 	$db_con=mysql_connect("$host","$usr","$pwd");
 	mysql_select_db("$db",$db_con);
