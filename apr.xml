@@ -1,0 +1,5401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE res SYSTEM "res.dtd">
+
+<apr>
+	<volume vnum="28">
+		<issue inum="04" month="01" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>5</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವಕುಮಾರ್">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಪ್ತರಕ್ಷಕಿ</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="ವೇಣು" fname="ಚಂಚಲ">ಚಂಚಲವೇಣು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ಯಾಕೇಜ್</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="ಅಂಬಿಕ" fname="ಹೆಚ್. ಕೆ.">ಹೆಚ್. ಕೆ. ಅಂಬಿಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೈತಾನ್ ಮೇಷ್ಟ್ರು</title>
+				<feature></feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="ನಟರಾಜು" fname="ಹೆಚ್. ಎನ್.">ಹೆಚ್. ಎನ್. ನಟರಾಜು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಲ್ಪಜನ ವಚನಗಳು</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="ಹಾ.ರಾ">ಹಾ.ರಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೋಸೆ</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ವಿ. ಸೀತಾರಾಮಯ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗಡಗಡ ನಡುಗಿಸಿದ..</title>
+				<feature></feature>
+				<page>43</page>
+				<allauthors>
+					<author lname="ನರಸಿಂಹಯ್ಯ" fname="ಡಾ|| ಎಚ್.">ಡಾ|| ಎಚ್. ನರಸಿಂಹಯ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>E ಕಸ : ಹೊಸ....</title>
+				<feature></feature>
+				<page>50</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ಭೂವನೇಶ್ವರಿ">ಭೂವನೇಶ್ವರಿ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಗನ ಮೇಲೆ.....</title>
+				<feature></feature>
+				<page>54</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂತಸದ ಜೋಡಿ</title>
+				<feature></feature>
+				<page>58</page>
+				<allauthors>
+					<author lname="ಕಾಪಡಿ" fname="ನಂದಿನಿ">ನಂದಿನಿ ಕಾಪಡಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಾರಾಡುವ ಶಾಲು...</title>
+				<feature></feature>
+				<page>63</page>
+				<allauthors>
+					<author lname="ಸುಬ್ಬರಾವ್" fname="ಕಷ್ಣ">ಕಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೆಂಬಲ ಬೆಲೆ</title>
+				<feature></feature>
+				<page>66</page>
+				<allauthors>
+					<author lname="" fname="">ವೈ. ಎನ್. ಗುಂಡೂರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುಲು ಮಾನವನಿಗೆ...</title>
+				<feature></feature>
+				<page>69</page>
+				<allauthors>
+					<author lname="ಶ್ರೀನಿವಾಸ್" fname="ಚಂಡಿಗನವಿಲೆ ಎಸ್.">ಚಂಡಿಗನವಿಲೆ ಎಸ್. ಶ್ರೀನಿವಾಸ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೇರೆ ಯಾವುದೋ....</title>
+				<feature></feature>
+				<page>72</page>
+				<allauthors>
+					<author lname="ಹಾರ್ದಳ್ಳಿ" fname="ಸೂರಿ">ಸೂರಿ ಹಾರ್ದಳ್ಳಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರವಿಕೆ ಕಣ</title>
+				<feature></feature>
+				<page>74</page>
+				<allauthors>
+					<author lname="" fname="ಪಾಲಚಂದ್ರ">ಪಾಲಚಂದ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾತು ನಿಂತಾಗ</title>
+				<feature></feature>
+				<page>79</page>
+				<allauthors>
+					<author lname="ರಾಮಮೂರ್ತಿ" fname="ಬೇಲೂರು">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಾಗಾದ್ರೆ.... ಜೀವನ...</title>
+				<feature></feature>
+				<page>88</page>
+				<allauthors>
+					<author lname="ಗುಂಡೂರಾವ್" fname="ವೈ. ವಿ.">ವೈ.  ವಿ. ಗುಂಡೂರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಡಾಕುವಿನ ಕವನ ಪ್ರಲಾಪ</title>
+				<feature></feature>
+				<page>91</page>
+				<allauthors>
+					<author lname="ಕುಲಕರ್ಣಿ. ಎಂ. ಡಿ." fname="ಡಾ|| ವಸಂತ ಅ.">ಡಾ|| ವಸಂತ ಅ. ಕುಲಕರ್ಣಿ. ಎಂ. ಡಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಾಳಪ್ಪನ ದಾಳ</title>
+				<feature></feature>
+				<page>96</page>
+				<allauthors>
+					<author lname="ನರಸಿಂಹಮೂರ್ತಿ" fname="ಎಂ. ಎಸ್.">ಎಂ. ಎಸ್. ನರಸಿಂಹಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬುರುಡೆ ಬಾಜಿರಾಯರ ವಿಲ್..</title>
+				<feature></feature>
+				<page>100</page>
+				<allauthors>
+					<author lname="ಕೇಶವಮೂರ್ತಿ ರಾವ್" fname="ನೀರಗುಂದ">ನೀರಗುಂದ ಕೇಶವಮೂರ್ತಿ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೋವು ನಲಿವುಗಳ ಮಧ್ಯೆ</title>
+				<feature></feature>
+				<page>103</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಶ್ಯಾಮಲಾ ರವಿಶಂಕರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಾಸ್ಯ ಅಪರಂಜಿ ಮತ್ತು..</title>
+				<feature></feature>
+				<page>110</page>
+				<allauthors>
+					<author lname="ರಮೇಶ್" fname="ದತ್ತೂರಾವ್">ದತ್ತೂರಾವ್ ರಮೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರಾನಾಮಂ ಕರಾಮತ್ತು</title>
+				<feature></feature>
+				<page>116</page>
+				<allauthors>
+					<author lname="ರಾಮಚಂದ್ರನ್" fname="ಇ. ಆರ್.">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾರತೀಯ ವೈಶಿಷ್ಟ್ಯ</title>
+				<feature></feature>
+				<page>119</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>123</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>124</page>
+				<allauthors>
+					<author lname="ಗೋಪಾಲಕೃಷ್ಣ" fname="ಎಚ್.">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಿಜ್ಞಾಸಾ ಪ್ರಶ್ನೆಗಳು...!</title>
+				<feature></feature>
+				<page>127</page>
+				<allauthors>
+					<author lname="" fname="ಗುರು">ಗುರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಭಾರತ ದರ್ಶನಂ</title>
+				<feature></feature>
+				<page>130</page>
+				<allauthors>
+					<author lname="ಸತ್ಯ" fname="ಸಿ. ಆರ್.">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವರಿಗೊಂದು ಪತ್ರ</title>
+				<feature></feature>
+				<page>134</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಸಾಹಿತ್ಯ ಸ್ಫೂತ್ರಿ</title>
+				<feature></feature>
+				<page>137</page>
+				<allauthors>
+					<author lname="ದೇಶಪಾಂಡೆ" fname="ವಿಶಾಲಾಕ್ಷಿ">ವಿಶಾಲಾಕ್ಷಿ ದೇಶಪಾಂಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಟೂ ಇನ್ ಒನ್ ಡಾಕ್ಟರ್</title>
+				<feature></feature>
+				<page>141</page>
+				<allauthors>
+					<author lname="" fname="ಇ. ಆರ್. ಆರ್.">ಇ. ಆರ್. ಆರ್.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="02" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವಕುಮಾರ್">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅವರೇಕಾಯಿ....</title>
+				<feature></feature>
+				<page>8</page>
+				<allauthors>
+					<author lname="ಜೋಶಿ" fname="ಅರುಂಧತಿ">ಅರುಂಧತಿ ಜೋಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಾರೆನೋಟ</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="ವಸುಧೇಂದ್ರ">ವಸುಧೇಂದ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಂದು ಲೋನಿನ..</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣಿ">ವಾಣಿ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಾಯಿ</title>
+				<feature></feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="ಭಟ್" fname="ಪ್ರೇಮಾ">ಪ್ರೇಮಾ ಭಟ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೊನಾಲಿಸಾ</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="ವೇಣುಗೋಪಾಲ" fname="ಹ. ನ.">ಹ. ನ. ವೇಣುಗೋಪಾಲ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೀಗಾಗಿದ್ದು...</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="ರಾಮಮೂತ್ರಿ" fname="ಬೇಲೂರು">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ನಸಿಂಥೆಟಿಕ್ ಸೆಗಣಿಗೆ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="ಗೋಪಾಲಕಷ್ಣ" fname="ಎಚ್.">ಎಚ್. ಗೋಪಾಲಕಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಊರುಗೋಲು</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="ನರಸಿಂಹಮೂತ್ರಿ" fname="ಶಿ.">ಶಿ. ನರಸಿಂಹಮೂತ್ರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಿಲ್ಕ್....</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="ಗುರು">ಗುರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗಂಡಸರನ್ನು......</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="ರಾಮಾನುಜಂ" fname="ಡಾ|| ಪಿ. ಎಸ್.">ಡಾ|| ಪಿ. ಎಸ್. ರಾಮಾನುಜಂ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಮವಸ್ತ್ರ ......</title>
+				<feature></feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="ಇಸ್ಮಾಯಿಲ್">ಇಸ್ಮಾಯಿಲ್</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" month="03" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>2</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವಕುಮಾರ್">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಸೋಸಿಯೇಷನ್...</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="ಅ.ರಾ.ಸೇ.">ಅ.ರಾ.ಸೇ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ರಿಕೆಟ್ಟಾಟದ ಸಂಕಟ</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ಭುವನೇಶ್ವರಿ">ಭುವನೇಶ್ವರಿ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಾಂತಿಗಾಗಿ ಕ್ರಿಕೆಟ್</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="ಚಂದ್ರು" fname="ಬಾಗೂರು">ಬಾಗೂರು ಚಂದ್ರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ರಿಕೆಟ್ಕ್ವಿಜ್</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="ಗೋಪಾಲಾನಂದ">ಗೋಪಾಲಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ರಿಕೆಟ್ ನ ಅಂದ</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="ರಾಮಚಂದ್ರನ್" fname="ಇ.ಆರ್.">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಾಳು ಬಾಲಾಯಿತು</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="ವಿನಾಯಕ">ವಿನಾಯಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ರಿಕೆಟ್ ವಕ್ರಬಂಧ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="ರಾಮನಾಥ್" fname="ಎನ್.">ಎನ್. ರಾಮನಾಥ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಗತವೈಭವ</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವು">ಶಿವು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಂದು ದಿನದ ಪಂದ್ಯ</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೂರನೆ ಟೆಸ್ಟ್</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="ಆನಂದ">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ರಿಕೆಟ್ ಕವನಗಳು</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="ನಾಗ್" fname="ಎನ್.">ಎನ್. ನಾಗರಾಜ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಮಲಾನಗರದ...</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ್">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಿಂಡೀ ಮಾಡಿದ್...</title>
+				<feature></feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದೇನು ಮಾಯಾ...</title>
+				<feature></feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="07" month="04" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>2</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವಕುಮಾರ್">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಿಟೈರ್ ಆಗ್ಹೋದ್ರಂತೇ...</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="ನಾಗರಾಜ್" fname="ಎನ್.">ಎನ್. ನಾಗರಾಜ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಂದು ಪ್ರೇಮಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="ಪುರುಷೋತ್ತಮ್" fname="ಕುಮುದಾ">ಕುಮುದಾ ಪುರುಷೋತ್ತಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="ಅ" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಡಾಕ್ಟರ್ ಚಿಕ್ಕಪ್ಪ</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="ನಾರಾಯಣ್" fname="ಭಾರ್ಗವಿ">ಭಾರ್ಗವಿ ನಾರಾಯಣ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಾಜೀವ್ ಗಾಂಧಿ...</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="ಶ್ರೀನಿವಾಸನ್" fname="ಎಸ್.">ಎಸ್. ಶ್ರೀನಿವಾಸನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುಳ್ಳು ನಮ್ಮಲ್ಲಿಲ್ಲವಯ್ಯಾ</title>
+				<feature></feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="ಅಬ್ಬಿಗೇರಿ" fname="ಜಯಪ್ರಕಾಶ">ಜಯಪ್ರಕಾಶ ಅಬ್ಬಿಗೇರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಿಕ್ಕ ಚಿಕ್ಕ ಕಥೆಗಳು</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="ಸುಕೇಶವ">ಸುಕೇಶವ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾಮನಬಿಲ್ಲಿನ...</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದು ಮುಂಗುಸಿಯಲ್ಲ...</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಾಮ್ರಾ ಬಾಳೆ ಸಾಬರ...</title>
+				<feature></feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="ಗುರು">ಗುರು</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="08" month="05" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವಕುಮಾರ್">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂಗಭದ್ರೆ</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="ನರಸಿಂಹಸ್ವಾಮಿ" fname="ಕೆ. ಎಸ್.">ಕೆ. ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಿಮ್ಮಿ ನಾನು ಮತ್ತು...</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="ಕಾಪಡಿ" fname="ನಂದಿನಿ">ನಂದಿನಿ ಕಾಪಡಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="ಅ" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಕೋತ ಗಿಡಕ್ಕೆ...</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಲೋಕ್ ಪಾಲ್ಗೆ ಹಾಲಾ...</title>
+				<feature></feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="ರಾಮಚಂದ್ರನ್" fname="ಇ. ಆರ್.">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಿಸ್ಡ್ ಕಾಲ್ ಮಗ...</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="ಗಣೇಶ್" fname="ಬಿ. ಕೆ.">ಬಿ. ಕೆ. ಗಣೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುಟ್ಟಿಸಿದ ದೇವರು...  </title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>50-50 ಕ್ವಿಜ್</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="ಆನಂದ">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೊಸ ಸೂತ್ರಗಳು</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="ಸೂತ್ರಧಾರಿ">ಸೂತ್ರಧಾರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೀಗೊಂದು ವಸಂತೋತ್ಸವ</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಡುರಾತ್ರಿಯಲ್ಲಿ ಮನಸ್ಸು...</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="ಗುರು">ಗುರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="ಗೋಪಾಲಕೃಷ್ಣ" fname="ಎಚ್.">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="09" month="06" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವಕುಮಾರ್">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊನೆಗೂ ಸಂಭವಿಸಿದ ಭೇಟಿ</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="" fname="ಆನಂದ">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ನಂಜ ಪುಟ್ಬಸ್ವಿ ಅವರ್ ಮದ್ವಿ</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="ರಾಮಚಂದ್ರನ್" fname="ಇ. ಆರ್.">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈಜಿಪ್ತಿಗೆ ನಿಯೋಗ</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="ರಾಮಿ">ರಾಮಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಾಳಲಾರೆನೋ ದೇವ...</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="ಜೋಶಿ" fname="ಅರುಂಧತಿ">ಅರುಂಧತಿ ಜೋಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರವೊಲನೆಂಬುವ...</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀರಾ ರಾಡಿಯ ಕತೆ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಗಾರ್ಡನ್ ನಲ್ಲಿ ಒಂದು</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="ಗುರು">ಗುರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವ್ರ ದಿನಚರಿ</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="ಮದ್ಸೂದ್ನ">ಮದ್ಸೂದ್ನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="ಗೋಪಾಲಕೃಷ್ಣ" fname="ಎಚ್.">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುನ್ಸೂಚನೆಯ ಬಿರುಗಾಳಿ</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="ಇಸ್ಮಾಯಿಲ್">ಇಸ್ಮಾಯಿಲ್</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="10" month="07" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>5</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವಕುಮಾರ್">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಸಬ್ ನ ಕಳಕಳಿ</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="ರಾಮಚಂದ್ರನ್" fname="ಇ. ಆರ್.">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೋವಿನ ಹಾಡು</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="ಆನಂದ">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಿಳ್ಳೆ ಪಂಡಿತರು...</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="ಮೂರ್ತಿ" fname="ಎಚ್. ಎಸ್. ವೆಂಕಟೇಶ್">ಎಚ್. ಎಸ್. ವೆಂಕಟೇಶ್ ಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಾತೃಪ್ರೇಮ</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="ಇಸ್ಮಾಯಿಲ್">ಇಸ್ಮಾಯಿಲ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಭವಿಷ್ಯ</title>
+				<feature>ಮಾಸ ಭವಿಷ್ಯ</feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ">ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎಲ್ಲವೂ ಡೀ ಎಲ್ಲಿಗಾಗಿ</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಇಲ್ಲೀಗಲ್ ಮಣ್ಣಂಗಟ್ಟಿ</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಲ್ಕೇ ಸಾಲಿನ ಕಥೆಗಳು</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="ರಾಮಮೂರ್ತಿ" fname="ಬೇಲೂರು">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೊಬೈಲ್ ಬ್ಯಾಂಕು</title>
+				<feature></feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="ಗುರು">ಗುರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಗೆಹರಿದ ಫಜೀತಿ</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="ರಾಮಿ">ರಾಮಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುಂಡು ಪಾರ್ಟಿ</title>
+				<feature></feature>
+				<page>39</page>
+				<allauthors>
+					<author lname="" fname="ನಾಗ್ರಾಜ್">ಎನ್. ನಾಗರಾಜ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="ಗೋಪಾಲಕೃಷ್ಣ" fname="ಎಚ್.">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="11" month="08" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>2</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವಕುಮಾರ್">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುಪ್ತ ನಿಧಿ</title>
+				<feature></feature>
+				<page>5</page>
+				<allauthors>
+					<author lname="ಸತ್ಯ" fname="ಸಿ.ಆರ್.">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುಖ್ಯ ಮಂತ್ರಿಗಳು...</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಾರೀಲಿ ಹೋಗೋ...</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="ಐತಾಳ್" fname="ಎಚ್. ಶಾಂತರಾಜ">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾರತ ದರ್ಶನ</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="ಕಡ್ತೂರು" fname="ಶರತ್">ಶರತ್ ಕಡ್ತೂರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಭವಿಷ್ಯ</title>
+				<feature>ಮಾಸ ಭವಿಷ್ಯ</feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ">ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವರ ಬವಣೆ</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="ಆನಂದ">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹೊರೆಯಲ್ಲದ ನೆರೆ</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬದುಕು ರೂಪಿಸಿದವರು..</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="ಗುರು">ಗುರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕುಂಬಳಕಾಯಿ ಸಾಕ್ಷ್ಯ</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="ಎಚ್." fname="ಗೋಪಾಲಕೃಷ್ಣ">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="12" month="09" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>5</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವಕುಮಾರ್">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಪಶಕುನ ಪಿಶಾಚಿ!</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="ರಾಮಚಂದ್ರನ್" fname="ಇ. ಆರ್.">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ವಾಮಿ ಪ್ರೇಮದೇವರ...</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="ಗಣೇಶ್" fname="ಬಿ. ಕೆ.">ಬಿ. ಕೆ. ಗಣೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈಮೇಲ್ ಫಾರವರ್ಡ್....</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಭೂಗೋಳ....</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="ಬಾಲಚಂದ್ರನ್" fname="ಚಂದ್ರಶೇಖರ್">ಚಂದ್ರಶೇಖರ್ ಬಾಲಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="ಗೋಪಾಲಕೃಷ್ಣ" fname="ಎಚ್.">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಭವಿಷ್ಯ</title>
+				<feature>ಮಾಸ ಭವಿಷ್ಯ</feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ">ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭೀಮನ ಅಮಾಸೆ....</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೋಂಡಾ ಮೆಷೀನು....</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="ಗುರು">ಗುರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅತಿಥಿ ದೆವ್ವೋಭವ</title>
+				<feature></feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೆಂಕೀ ದೇವ್ರು ಮುಂದ್....</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="ಮುಂಜುನಾಥ" fname="ಎಚ್. ಬಿ.">ಎಚ್. ಬಿ. ಮುಂಜುನಾಥ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" month="10" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>2</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮೂರ ದಸರಾ</title>
+				<feature></feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="ಸತ್ಯ" fname="ಸಿ. ಅರ್.">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದೃಷ್ಟ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="ರಾಜಾ" fname="ಶಶಿಕಲಾ">ಶಶಿಕಲಾ ರಾಜಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜನ ಮರುಳೋ...!</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="" fname="ಸುಕೇಶವ">ಸುಕೇಶವ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೀಗೊಂದು ಆಪರೇಷನ್</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="ರಾಮಿ">ರಾಮಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪವರ್ ಚ್ಯಾಟ್!</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="ರಾಮಚಂದ್ರನ್" fname="ಇ. ಆರ್.">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುಂಬರುವ ಫ್ಲೆಕ್ಸಿ ಬೋರ್ಡ್ಗಳು</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಧವಳಗಿರಿ ಕ್ಷೇತ್ರ...</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="ಹರಿಕೃಷ್ಣ">ಹರಿಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಂತರಜಾಲ...</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇಂದಿನ ಹಾಲು-ಜೇನು...</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="ಕೃಷ್ಣ" fname="ಎಚ್. ಗೋಪಾಲ">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೇವಕರೇ ಮಾಲೀಕರಾದಾಗ</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="ಆನಂದ">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಭವಿಷ್ಯ</title>
+				<feature>ಮಾಸ ಭವಿಷ್ಯ</feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="" fname="ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ">ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="11" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="ಶಿವಕುಮಾರ್">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಏಸೊಂದು ನಮೂನಿ</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="ವೀರಭದ್ರಪ್ಪ" fname="ಕುಂ.">ಕುಂ. ವೀರಭದ್ರಪ್ಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಾರದಿಂದ ಅಗ್ರಹಾರ</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆನಂದ ವಿಹಾರ ಕ್ಲಬ್</title>
+				<feature></feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="ಹನುಮಂತರಾವ್" fname="ಎಚ್. ಆರ್.">ಎಚ್. ಆರ್. ಹನುಮಂತರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತೆರಿಗೆ ಹಲವು ಬಗೆ</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="ರಾಮಮೂರ್ತಿ" fname="ಬೇಲೂರು">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಲ್ಪಜ್ಞನ ವಚನಗಳು</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="ಹಾ. ರಾ.">ಹಾ.ರಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾರುತಿ ಪ್ರಣಯ</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="ಕೃಷ್ಣ" fname="ಎಚ್. ಗೋಪಾಲ">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀನಾತದೊಳಗೋ</title>
+				<feature></feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಭವಿಷ್ಯ</title>
+				<feature>ಮಾಸ ಭವಿಷ್ಯ</feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ">ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="12" year="2011">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೆಟ್ರೋ ಮೆಟ್ರೋ</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="ವತ್ಸನ">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸರ್ ನೇಮ್ ಫಸ್ಟ್...</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಸಹವಾಸ ದೋಷ </title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬದುಕಿದೆಯಾ...</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="ಗುರುಪ್ರಸಾದ್" fname="ಡಾ|| ಡಿ. ವಿ.">ಡಾ|| ಡಿ. ವಿ. ಗುರುಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಸ್ಕೃತದಲ್ಲಿ ಹಾಸ್ಯ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="ಭಟ್" fname="ಮಹಾಬಲ">ಮಹಾಬಲ ಭಟ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಜ್ಜಿ ಕತೆಗಳು</title>
+				<feature></feature>
+				<page>25</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೆಲಸವಿದ್ದ ಬಡಗಿ</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="ಕೃಷ್ಣ" fname="ಎಚ್. ಗೋಪಾಲ">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊಂಬೆ ಕತ್ತರಿಸಿದ...</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="ಹೆಗಡೆ" fname="ನಾಗೇಶ">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಭವಿಷ್ಯ</title>
+				<feature>ಮಾಸ ಭವಿಷ್ಯ</feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ">ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="29">
+		<issue inum="04" month="01" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>5</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚೋಳರ ಕಾಲದ</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೊಳ್ಳೆಯ ಪರದಾಟ</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಲತಾ ಉದಯ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭೂತಾವಾಸ್ಯಮಿದಂ</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಯಾಣದ ಪರದಾಟ</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ವೈ. ವಿ. ಗುಂಡೂರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಣ್ಣಕಥೆ &#126; ಪುಟ್ಟಾ</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಕುಮುದಾ ಪುರುಷೋತ್ತಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಾಲು ಮಾರಲು</title>
+				<feature></feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಿದ್ಧತೆ</title>
+				<feature></feature>
+				<page>42</page>
+				<allauthors>
+					<author lname="" fname="">ಸೂರಿ ಹಾರ್ದಳ್ಳಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವರು ಪ್ರತ್ಯಕ್ಷನಾದಾಗ</title>
+				<feature></feature>
+				<page>46</page>
+				<allauthors>
+					<author lname="" fname="">ಕುಮುದಾ ದೇಶಪಾಂಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೆಬ್ಬಂಡೆ ರಾಮದಾಸಪ್ಪ</title>
+				<feature></feature>
+				<page>50</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಡ್ರೀಮ್ ವೈಫ್</title>
+				<feature></feature>
+				<page>53</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚುಟುಕು ಚಟಾಕಿ</title>
+				<feature></feature>
+				<page>55</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗರುಡಾ ಪುರಾಣ</title>
+				<feature></feature>
+				<page>60</page>
+				<allauthors>
+					<author lname="" fname="">ನೀರಗುಂದ ಕೇಶವಮೂರ್ತಿ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಸ್ ಪ್ರಯಾಣದ</title>
+				<feature></feature>
+				<page>64</page>
+				<allauthors>
+					<author lname="" fname="">ಅಡ್ಡೂರು ಕೃಷ್ಣರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಂಗ ಸ್ವಾರಸ್ಯ</title>
+				<feature></feature>
+				<page>67</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ|| ನಿರುಪಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>72</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆನಂದ ವಿಹಾರ ಕ್ಲಬ್</title>
+				<feature></feature>
+				<page>73</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>79</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈಟ್ ದೇವೇಂದ್ರ</title>
+				<feature></feature>
+				<page>82</page>
+				<allauthors>
+					<author lname="" fname="">ಗೋಪಾಲಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈ ಮಾಯಾಲೋಕದಲ್ಲಿ</title>
+				<feature></feature>
+				<page>86</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆ ದಿನಗಳ ಭಾನುವಾರದ</title>
+				<feature></feature>
+				<page>90</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಾತನ ತಾಪತ್ರಯ</title>
+				<feature></feature>
+				<page>95</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ರಾಮನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಡೆಡೋನಿಯಾ</title>
+				<feature></feature>
+				<page>101</page>
+				<allauthors>
+					<author lname="" fname="">ರಾಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೈರಾಗಿಯ ಪವಾಡದಲ್ಲಿ</title>
+				<feature></feature>
+				<page>107</page>
+				<allauthors>
+					<author lname="" fname="">ಗೊರೂರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೊಬೈಲಾಯಣ</title>
+				<feature></feature>
+				<page>113</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ನಾಗರಾಜ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜನನೀ ಜನ್ಮ ಭೂಮಿಶ್ಚ</title>
+				<feature></feature>
+				<page>115</page>
+				<allauthors>
+					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಭವಿಷ್ಯ</title>
+				<feature>ಮಾಸ ಭವಿಷ್ಯ</feature>
+				<page>119</page>
+				<allauthors>
+					<author lname="" fname="">ಸತ್ಯೋತ್ತಮಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="02" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಿಂಗಪುರದ ಪರ್ಸೆಂಟ್</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬದುಕಿಗೆ ಬೇಕೇ ಲೆಕ್ಕ?</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಂಬರ್ ಥಿಯರಿ</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಗಣಿತ ನೆನಪುಗಳು</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಭುವನೇಶ್ವರಿ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುಸುಕು ತೆಗೆಯೇ</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ನಾಗೇಶ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅತ್ತೆಯಾದರೇನು ಶಿವಾ</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಸುಕೇಶವ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಕ್ಷಿಣಿ ಮತ್ತು ನಾನು</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ಗೊರೂರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹೀಗೊಂದು...</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಕುಮುದಾ ಪುರುಷೋತ್ತಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕುರಿಗಳು ಸಾರ್</title>
+				<feature></feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" month="03" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಿಗುರಿದ ಪ್ರಜ್ಞೆ ಪ್ರಸಂಗ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಟೀ ಷರ್ಟ್ ಮೇಲೆ</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಗುತಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಿ ಕಂಪನಿ ವರ್ಸಸ್</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುತ್ತಮುತ್ತಲಿನವರು</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ನಂದಿನಿ ಕಾಪಡಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮರಳು ಯತ್ನವ ಮಾಡಿ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇತನೊಂದು ಋಷಿಯ</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಎಮ್ಮೆ-ಲೇಗಳು</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಒಂದು ವ್ರತದ</title>
+				<feature></feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಶ್ಯಾಮಲಾ ರವಿಶಂಕರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="07" month="04" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಠ, ಮಠ, ಮಧ್ಯಾಹ್ನ</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಕಾಲಕ್ಕೆ ಸಖತ್ ತಯಾರಿ</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕುಗ್ರಾಮ ವಾಸಿಯ</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗಾಂಧೀ ಕ್ಲಾಸು</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಕುಂ. ವೀರಭದ್ರಪ್ಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಲೇಟೆಸ್ಟ್ ನಿಶ್ಚಿತಾರ್ಥ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="" fname="">ಶ್ರೀನಿವಾಸ ಕುಂಡಂತಾಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾನು ಓದಿದ ಪುಸ್ತಕ</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಚಪಲ ಚಿತ್ತನ ಚಪ್ಪಲಿ</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಜಿ. ಸೋಮಶೇಖರ್ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೈಗುಳಗಳು ಬಂದರೆ</title>
+				<feature></feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ಮಾಲತಿ ಮುದಕವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="08" month="05" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ರಿಸ್ ಗೇಲನ ಅಮೂಲ್ಯ...</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಐಪಿಎಲ್ ಮತ್ತು ಆರ್ಎಂಎಲ್</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಂದು ಬಹಿರಂಗ ಪತ್ರ</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಐಪಿಎಲ್ಕ್ವಿಜ್</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ದಾಂಡಿಗ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆರಾಮ ನವಮಿ</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೋವಿಂದಜ್ಜ ಬರ್ಲೇ ಇಲ್ಲ</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಸಹಕಾರ ಆಂದೋಲನ</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ಅರುಂಧತಿ ಜೋಶಿ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಸೆಕ್ಯುರಿಟಿ ತಂದ ಪಜೀತಿ</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ|| ಡಿ . ವಿ. ಗುರುಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗಾಸಿಪ್ ರಾಜ</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ಅಣ್ಣಾಸ್ವಾಮಿ ಮೊದಲಿಯಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕನ್ನಡ | ತೆಲುಗು (ಸಂವಾದ)</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಶ್ಯಾಮಲಾ ರವಿಶಂಕರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>39</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="09" month="06" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ಲಾಸ್ಮಾ ಟೀವಿ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಶ್ವ ಪೊರಕೆ ದಿನಾಚರಣೆ</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಳಯ ಪ್ರಲಾಪ</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾಗೆಗಳ ಟೀಮ್...</title>
+				<feature></feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="" fname="">ರಮ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೀನು ಮಡಿದ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="" fname="">ಶ್ರೀನಿವಾಸ ಕುಂಡಂತಾಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಲಿ ಚಕ್ರವರ್ತಿಯ ಅಜ್ಜ</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಎಜುಕೇಶನ್ ಎಡವಟ್ಟು</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಕ್ತಿಶಾಲಿ ತೂಕಡಿಕೆ</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ನಂದಿನಿ ಕಾಪಡಿ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="10" month="07" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ಟಡಿ ಟೂರ್ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಳೆಗಾಲ ಎಂದರೆ...!</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರತಿಕ್ರಿಯೆ</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ವರುಣಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೆಂಗಳೂರಿನ...</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೆನೆಯುತ್ತ...</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಭೂಮಿತಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಳೆಗಾಲ ಬಂದಾಗ....</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ಭುವನೇಶ್ವರಿ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಘಂಟಾಯಣ</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಸುಧಾ ಸರನೋಬತ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾನು ಹಾಸಿಗೆ...</title>
+				<feature></feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ|| ಡಿ . ವಿ. ಗುರುಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="11" month="08" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಲಂಡನ್ ಒಲಂಪಿಕ್ಸ್</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎಲ್ಲಿ ಕಳಕೊಂಡವಿ ಆ</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಭೂಮಿತಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಂದು ಮಾತ್ರ ಫುಲ್</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮಂಚಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾರತ ೬೫, ಫುಲ್</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಲಿಯನ್ ವಾಲಾ</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಿಲೇ ಸುತ್ತಮುತ್ತ</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಾಲಿವುಡ್ ಮೂವಿ</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಶ್ರೀನಿವಾಸ ಕುಂಡಂತಾಯ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಿದ್ಧತೆ</title>
+				<feature></feature>
+				<page>39</page>
+				<allauthors>
+					<author lname="" fname="">ಸೂರಿ ಹಾರ್ದಳ್ಳಿ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="12" month="09" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಟೀಚರ್ಸ್ ಡೇ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೆನಪಿನಾಳದಲ್ಲಿ ನಮ್</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಭುವನೇಶ್ವರಿ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎನ್.ಆರ್.ಎಂ.!...</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಸ್ಪತ್ರೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ|| ಓಂ ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರೋಟಿ ಕಪಡಾ ಔರ್</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಂದು ಇಂದು</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ರಮ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನಾಥೋ ದೈವ ಶಿಕ್ಷಕಃ</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೃಪತುಂಗನ ಗರ್ವಭಂಗ</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಪಿ. ಕೃಷ್ಣಸ್ವಾಮಿ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ತರಬೇತಿ ಪಡೆದ...</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಭೂಮಿತಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎಚ್. ಆರ್. ಮಾಸ್ತರ್...</title>
+				<feature></feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ನವರತ್ನ ಲಕ್ಷ್ಮಣ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>39</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" month="10" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೈ ಎಕ್ಸ್ಪೆರಿಮೆಂಟ್...</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="">ಬಿ. ಕೆ. ಗಣೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಸರೆಯ ಉತ್ಸವದತ್ತ...</title>
+				<feature></feature>
+				<page>8</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚೊಂಬೂ ಸವಾರಿ</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಂತಿಂಥ ಗೊಂಬೆ...</title>
+				<feature></feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ರಾಮನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬನ್ನಿ ಬಂಗಾರವಾಗುವ...</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ಭೂಮಿತಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಯುಧ ಪೂಜೆ...</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಗೂಡು ಸೇರು...</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬರ ದರ್ಶನ</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೋವಿಂದಾಯ ನಮಃ</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮಂಚಿ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="11" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಖಾನ್ ಸಾಹೇಬರ...</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉತ್ತರಿಸಲಿ ಹೆಂಗ...?</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಭೂಮಿತಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುರೇಶ ಎಂಬ ಪಾಕೆಟ್...</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೀchi ಪ್ರಶ್ನೋತ್ತರ</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜುಲೈನಲ್ಲೊಂದು...</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ದೂಕೆ</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ನಾಗರಾಜ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಜಯ+ಲಲಿತ...</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಂಗ ಸ್ವಾರಸ್ಯ</title>
+				<feature></feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ|| ನಿರುಪಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಂಗಮವಾಣಿಯ...</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಮಾಲಾ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="12" year="2012">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>2</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>2</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಿಸಾರ್ಟ್ ನಲ್ಲಿ ಒಂದು ರಾತ್ರಿ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇನ್ನೊಂದು ಪ್ರಳಯ...</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಳಯ ತಪ್ಪಿಸಿಕೊಳ್ಳ...</title>
+				<feature></feature>
+				<page>5</page>
+				<allauthors>
+					<author lname="" fname="">ತುರುವೇಕೆರೆ ಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎಳ್ಳಾಮಾಸಿ ಸಂಭ್ರಮ</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="">ಭೂಮಿತಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುದ್ದಿ ಚುರುಮುರಿ</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಾವಲೋಕನ</title>
+				<feature></feature>
+				<page>8</page>
+				<allauthors>
+					<author lname="" fname="">ವಿ. ಮರ್ಶಕ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಮುಂದೆ ಬರಲಿರುವ ಚಿತ್ರಗಳು</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಕೂಗು</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಪಾರ್ಲಿಮೆಂಟಿನ ...</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ರಾಮನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀರಿಲ್ಲದ ಸುಖ </title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಜಲಜ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕವಳಾವಲೋಕನ</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಪತಿಯ ಸಂಸಾರ</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈ.ಎನ್.ಕೆ. ಅವರ ಕೊನೆ ಸಿಡಿಗಳು</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಜಿವನಾಂದ್ರೆ ಇದೇ</title>
+				<feature></feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ಸಂಪಟೂರು ವಿಶ್ವನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀವು ಬದುಕಿದ್ದೀರಾ ಸಾರ್</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ|| ಡಿ . ವಿ. ಗುರುಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜನ-ಸಮ್ಮಾನ</title>
+				<feature></feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಭಾ</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="30">
+		<issue inum="04" month="01" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿದುರಾಶ್ವತ್ಥದ...</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗ ಕಲಿಯುವ...</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>2012 ಸಿಂಹಾವಲೋಕನ</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಕರಣಾ ಪ್ರಿಯರು</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಲಿಸು ರಾಧೆಯ ಕೊಳಲಿನಾ ಕರೆ</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಪರಿಚಾಯಣ</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮಂಚಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರೆಗಳ ಕರಕರೆ</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="" fname="">ಸೂರಿ ಹಾರ್ದಳ್ಳಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇವೆಲ್ಲಾ ಏಪ್ರಿಲ್...</title>
+				<feature></feature>
+				<page>39</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಟ್ಟೆ ಪ್ಲಾನ್</title>
+				<feature></feature>
+				<page>42</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ . ರುಕ್ಮಿಣಿ ರಘುರಾಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿವಧ ಶಾಸ್ತ್ರ...</title>
+				<feature></feature>
+				<page>45</page>
+				<allauthors>
+					<author lname="" fname="">ನಂದಿನಿ ಕಾಪಡಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೂಲಿಟ್ಟು</title>
+				<feature></feature>
+				<page>51</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಶ್ಯಾಮಲ ರವಿಶಂಕರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾನವರ ಮೇಲೆ ಗ್ರಹಗಳ...</title>
+				<feature></feature>
+				<page>54</page>
+				<allauthors>
+					<author lname="" fname="">ನೀರಗುಂದ ಕೇಶವಮೂರ್ತಿ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೀchiಯೊಡನೆ ಒಂದು...</title>
+				<feature></feature>
+				<page>58</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ರಾಮನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>63</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೀಕ್ಷಕ ದೇವರುಗಳೇ, ಇದೋ...</title>
+				<feature></feature>
+				<page>64</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಕೇತಗಳು</title>
+				<feature></feature>
+				<page>68</page>
+				<allauthors>
+					<author lname="" fname="">ಅಣ್ಣಾಸ್ವಾಮಿ ಮೊದಲಿಯಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೃಹತ್ ಹಂಡೆ ಗುರೂಜಿ...</title>
+				<feature></feature>
+				<page>75</page>
+				<allauthors>
+					<author lname="" fname="">ಗೌತಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಗೆಗಾರ-ದಾರ್ಶನಿಕ ಬೀchi</title>
+				<feature></feature>
+				<page>79</page>
+				<allauthors>
+					<author lname="" fname="">ಪುನರ್ವಸು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಗನೆಂಬ ಮರ್ಕಟ...</title>
+				<feature></feature>
+				<page>84</page>
+				<allauthors>
+					<author lname="" fname="">ಗೋಪಾಲಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಳ್ಳನನ್ನು ಹಿಡಿದ ಪುರೋಹಿತರು</title>
+				<feature></feature>
+				<page>93</page>
+				<allauthors>
+					<author lname="" fname="">ರಮ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾಡು ಹರಟೆ</title>
+				<feature></feature>
+				<page>96</page>
+				<allauthors>
+					<author lname="" fname="">ಅಶೋಕ ಭಾಗಮಂಡಲ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಗರಣಗಳಿಂದ ಸ್ವಯಂ ನಿವೃತ್ತಿ</title>
+				<feature></feature>
+				<page>100</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನಾಡಿಗೇರ್ ಕೃಷ್ಣರಾಯರ...</title>
+				<feature></feature>
+				<page>102</page>
+				<allauthors>
+					<author lname="" fname="">ಎಸ್. ಎನ್. ಚಂದ್ರಶೇಖರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೋತ್ವಿದ್ಯೆ</title>
+				<feature></feature>
+				<page>107</page>
+				<allauthors>
+					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>111</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="02" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಂದು ಹನಿ ಕಣ್ಣೀರು</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="" fname="">ಗೌರಿ ಮಿರ್ಲಿ ಅಚಂತಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈ-ಮೇಲ್ ಕವನಗಳು</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಡುಂಡಿರಾಜ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ಲೋ ಮೇಲ್ ವರ್ಸಸ್...</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾ ಮೇಲೋ ನೀ...</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮಂಚಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಡಗೂಲಜ್ಜಿ...</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆ ಮೇಲ್ ಈ ಮೇಲ್...</title>
+				<feature></feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="" fname="">ಎಂ. ಕೆ. ಭಾಸ್ಕರರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹರಿಯುವ ಹಣದ...</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಸಿರಾಗದ ನನ್ನ ಹಸಿರು</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ನಂದಿನಿ ಕಾಪಡಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಸ ಆನ್ ಲೈನ್</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಆರತಿ ಘಟಿಕಾರ, ದುಬೈ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜುಗ್ಗಾನಂದ ಸ್ವಾಮಿ</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" month="03" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಾಗಿಲಲ್ಲಿ ನಿಂತ ವಿಷ್ಣು</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವರೇ ಗತಿ</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಅ. ರಾ. ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹನುಮಾವತಾರ</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ರಾಮನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವರಂತಹ ಗಂಡ</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವರ ಕಥೆ ಹೀಗಾಯಿತು</title>
+				<feature></feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ. ಸಿದ್ಧಲಿಂಗಯ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಕಟದಲ್ಲಿ...</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗಣೇಶಾಯ ನಮಃ</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ಪಾ. ವೆಂ. ಆಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀ ಮಾಯೆಯೊಳಗೋ...</title>
+				<feature></feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="" fname="">ಜೋಗಿ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶಸ್ತಿ ಲಾಸ್ಟ್ ಅಂಡ್...</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಶಾಂತ ಕೆ. ಅಡೂರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವರ ಕೆಲಸ</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವಾಯಣ</title>
+				<feature></feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀನಿವಾಸನ್ ರ...</title>
+				<feature></feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ|| ಡಿ . ವಿ. ಗುರುಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="07" month="04" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧಾರಾವಾಹಿ ಎಂದರೆ</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಅ. ರಾ. ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚೈತನ್ಯದ ಧಾರಾವಾಹಿ</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಚಿತ್ರಾ ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧಾರಾವಾಹಿಗಳೆಂದರೆ</title>
+				<feature></feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೀರಿಯಲ್ ಕಿಲ್ಲರ್ ನ...</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮತ್ತದೇ ತಿರುವು...</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಡೈಲಾಗ್ ಜುಗಲ್ ಬಂದಿ</title>
+				<feature></feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಗ್ಗರಣೆ ಡಬ್ಬಿ...</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಶಾಂತ ಕೆ. ಅಡೂರ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಸೀರಿಯಲ್ ಪುರಾಣ</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ರಾಮನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಪನೀಪತುಯ ಸೀರಿಯಲ್</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನನ್ನ ಮೆಚ್ಚಿನ ಧಾರಾವಾಹಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎ. ಆರ್. ರಾಜಗೋಪಾಲ್</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="08" month="05" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೈ ಜಾರಿದ ದೋಸೆ...</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೈಸೂರು ಟಾಂಗಾ...</title>
+				<feature></feature>
+				<page>8</page>
+				<allauthors>
+					<author lname="" fname="">ಜೇಬಿ ಕೋಟೆ ಅನಂತ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ಯಾರ್ ಗೆ ಆಗ್ಬುಟ್ಟೈತೇ...</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ಗುರುಮೂರ್ತಿ ಇಂದ್ರಾಳಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾಕಾಯಣ</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ವಿಜಯ ಗುರುರಾಜ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಾಸ್ ವರ್ಡ್ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ನಂದಿನಿ ಕಾಪಡಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಟೆಂಪಲ್ ಪ್ರೀಮಿಯರ್...</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿಂಡಿಪೋತ</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="">ಸುಷ್ಮಾ ನಿವಾಲ್ಕರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೋಲೋತ್ಸವ</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೇಸಿಗೆ ಬಗ್ಗೆ ಒಂದು...</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಗೋಪಾಲಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="09" month="06" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಪಚುನಾವಣೆ ಪ್ರಸಂಗ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎಂದು ಏಕಾದಶಿ</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ವಿ. ಪ್ರಾಣೇಶ್ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹವಾಮಾನ ವರದಿ</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸರ್ಕಾರಿ ಕಛೇರಿಯಲ್ಲಿ...</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರೈಲ್ವೇ ಬೋರ್ಡ್...</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೂಷಕ ಮಹರ್ಷಿಯ...</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ವೈ. ವಿ. ಗುಂಡೂರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಂದ್ರಮತಿ</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ನಂದಿನಿ ಕಾಪಡಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೀಗೂ ಉಂಟೇ...</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ವಸುಮತಿ ಉಡುಪ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎಲ್ಲಾ ಶಿವನಾಟ</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಗುಂಡುರಾವ್ ದೇಸಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಾರು ಬೈದಿದ್ದು</title>
+				<feature></feature>
+				<page>41</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="10" month="07" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುಂಬೈಯಲ್ಲೂ ಅದೇ...</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾನು ಸತ್ತಾಗ!</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಜಿ. ಸೋಮಶೇಖರ್ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನಂತೂವಿನ ಶ್ವಾನ...</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಗನಿಗೆ ನಾಯಿ ಮರಿ...</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಯಶವಂತ ವಾಜಂತ್ರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಾಹ್ಮೀಯೂ ನೆನಪಿನ...</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ಕುಮುದಾ ಪುರುಷೋತ್ತಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಟೆಲಿಗ್ರಾಂ ತಂದ...</title>
+				<feature></feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="11" month="08" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೊಸ ಜೀವ</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="" fname="">ಸು. ವಿಜಯಲಕ್ಷ್ಮಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಶೋಧನೆಯ...</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ದೇಶಾನ ಚೊಕ್ಕಟ...</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಟೋಪಿವಾಲಾ!</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಶರತ್ ಕಲ್ಕೋಡ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಾರು ಅಡ್ರೆಸ್ ಹೇಳಿದ್ದು</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಂಬಕ್ಕನ ಬೂತ್</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಶ್ಯಾಮಲಾ ರವಿಶಂಕರ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ವಾಸ್ತು ಎಂಬ ನಾನ್ ಸೈನ್ಸ್</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ಭಾರತಿ ಬಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮನೆಯೊಂದು ಮೂರು...</title>
+				<feature></feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ನೀರಗುಂದ ಕೇಶವಮೂರ್ತಿ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಾರಾದರೇನು ಶಿವಾ?</title>
+				<feature></feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="" fname="">ನಮೋರಾಗಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="12" month="09" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಾಸ್ಯಾಧಿನಾಯಕ</title>
+				<feature></feature>
+				<page>8</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಅ. ರಾ. ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವ್ಯವಹಾರ ಜ್ಞಾನ</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಹ. ಶಿ. ಭೈರನಟ್ಟಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೆಂಕಟರಮಣನಿಗೇ ಸಂಕಟ...</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗಂಡ ಹೆಂಡತಿ ಜಗಳ...</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಿತ್ಯ ಬೆಸೆಯುವ...</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮಂಚಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೇಲೆ ಹೋಗಿದ್ದಷ್ಟೆ ಗೊತ್ತ್ತು</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ನಾಗರಾಜ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಹತ ಮಹೋತ್ಸವದಲ್ಲಿ...</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಪಿ. ಕೃಷ್ಣಸ್ವಾಮಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುದ್ಧ ಅಸುದ್ಧಿ</title>
+				<feature></feature>
+				<page>39</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="01" month="10" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೆದ್ದಾರಿ ನಂಬರ್ ನಾಲ್ಕು</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಂತರಂಗದಲ್ಲಿ ಹಚ್ಚುವ...</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಅ. ರಾ. ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈ ಸಂಭಾಷಣೆ</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಸ್ತ್ರ ಸಂಹಿತೆಯ ಅಸ್ತ್ರ</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎಂಥಾ ಗೊಣಗಾಟ!!</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಸಹನಾ ಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೋದಿ ಟು ಮೋದಿ</title>
+				<feature></feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="" fname="">ಬಿ. ಕೆ. ಗಣೇಶ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹಿಂದೀ ಚೀನಿ ಪರಾರಿ!</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೋವಾ ಹಾಲಿಡೇ</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಉಷಾ ವಾಸು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಾವಿಗೆ ಬಿದ್ನಂತಪ್ಪೋ</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಾಕೆ ಮೂರ್ಖನಾದ್ಯೋ</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಅರುಂಧತಿ ಜೋಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುದ್ಧ ಅಸುದ್ಧಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="11" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೆದ್ದಾರಿ ನಂಬರ್ ನಾಲ್ಕು</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಂತರಂಗದಲ್ಲಿ ಹಚ್ಚುವ...</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಅ. ರಾ. ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈ ಸಂಭಾಷಣೆ</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಸ್ತ್ರ ಸಂಹಿತೆಯ ಅಸ್ತ್ರ</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎಂಥಾ ಗೊಣಗಾಟ!!</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಸಹನಾ ಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೋದಿ ಟು ಮೋದಿ</title>
+				<feature></feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="" fname="">ಬಿ. ಕೆ. ಗಣೇಶ್</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಹಿಂದೀ ಚೀನಿ ಪರಾರಿ!</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೋವಾ ಹಾಲಿಡೇ</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಉಷಾ ವಾಸು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಾವಿಗೆ ಬಿದ್ನಂತಪ್ಪೋ</title>
+				<feature></feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಾಕೆ ಮೂರ್ಖನಾದ್ಯೋ</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಅರುಂಧತಿ ಜೋಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುದ್ಧ ಅಸುದ್ಧಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="12" year="2013">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಬ್ದ ವಿಲಾಸ</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಅ. ರಾ. ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಿಕ್ಕೆಟ್ಟ ಬಾಲಕನ ಪುಟ್ಟ...</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾನೂ ನನ್ನ ಸೆಲ್ ಫೋನು</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಸಹನಾ ಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈ ವರ್ಷ ಹಿಂಗಾತ?</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಶಾಂತ ಕೆ. ಅಡೂರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈ ಚಪ್ಪಲಿಗಳದ್ದೇ ಒಂದು...</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ. ನಾ. ಡಿಸೋಜ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಬಂಧ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಆರೋಗ್ಯ ಮತ್ತು ಸುಳ್ಳು</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಂದು ನೆನಪು</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜೂನಿಯರ್ ಲಾಯರ್...</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ಎಸ್. ರಾಜಗೋಪಾಲಾಚಾರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುಬ್ಬನ ಮನೆ ಹಬ್ಬ</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ಶ್ರೀನಾಥ ಭಲ್ಲೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹನುಮಂತನ ಟಿ.ವಿ. ಬಿಲ್ಲು</title>
+				<feature></feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="">ಸಂಪಟೂರು ವಿಶ್ವನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುದ್ಧ ಅಸುದ್ಧಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="31">
+		<issue inum="04" month="01" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಾಯಭಾರಿ ರಜದರ್ಮ...</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪೊರಕೆ ಪುರಾಣ</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಅ. ರಾ. ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಮ್ಮ-ಮಗಳು</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ನೀಲತ್ತಹಳ್ಳಿ ಕಸ್ತೂರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎಲ್ಲೆಲ್ಲೂ ನಗುವೇ</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಜಿ. ಸೋಮಶೇಖರ್ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಕ್ರಮ-ಸಕ್ರಮ</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಬಂಧ</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಲಗಣಾ ಆದ್ರ ಆರಾಮ!</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈರುಳ್ಳಿ ಪರ್ವ</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೌದಾ ಜೀವು? ಸರಿ...</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರಳಿಕಟ್ಟು</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುದ್ಧ ಅಸುದ್ಧಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="02" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಂಬಿ ಕೆಟ್ಟವರಿಲ್ಲವೆ?</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಅ. ರಾ. ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಲಾಂಗ್ ಲಿವ್ ಯಾಲಂಟಮ್ಮ</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಂದು ನಿಮಿಷ</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="" fname="">ಎಸ್. ಎನ್. ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಾಯೋ ಸೀನ್ ಗೆ...</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಪ್ಪಿಟ್ಟಿನ ರುಚಿ</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಿಗ್ಗುವ ಈ ಪರಿ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ನಾಗರಾಜ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಯಿಯ ಫೈಸ್ಲಾ</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮಂಚಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಬಂಧ</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ಟಡಿ ಟೂರ್ ಅಥವಾ...</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಕ್ರಮ-ಸಕ್ರಮ</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="">ವೈ. ಎನ್. ಗುಂಡೂರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುದ್ಧ ಅಸುದ್ಧಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" month="03" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಜ್ರದ ಪದಕ ಪ್ರಸಂಗ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಕ್ಕರೆ ಏನೇನಾದೀತು?</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರೊ. ಅ. ರಾ. ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬರಹಗಾರನ ಬವಣೆ</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅರವತ್ತರ ನಂತರ..........</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಸುಕೇಶವ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಂಗಳ ಬೇಡ, ಶನಿ ಇರಲಿ</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಶಾಂತ ಕೆ. ಅಡೂರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಬಂಧ</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಟೋ ಫೇರ್ ಗ್ರಾಫ್</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ರಮ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೂಗು</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ಜಿ. ಬಿ. ಕೋಟೆ ಅನಂತ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ಯಾಂಕಿತೀರದ ವಾಕಥಾನ್..</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ದೀಪಾ ಫಡ್ಕೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೋವು ಹಾಗೂ ಹಾಸ್ಯಪ್ರಜ್ಞೆ </title>
+				<feature></feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="">ಶೋಭಾ ಪ್ರಮೋದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುದ್ಧ ಅಸುದ್ಧಿ</title>
+				<feature></feature>
+				<page>39</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="07" month="04" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂಡು ಕವಿ</title>
+				<feature></feature>
+				<page>8</page>
+				<allauthors>
+					<author lname="" fname="">ನಾ. ಕಸ್ತೂರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಹಾತ್ಮ ಅಟೆನ್ ಬರೊ</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="" fname="">ಲೀಲಾ ಮಿರ್ಲೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ಲೇಷೊದ್ಯಾನದಿ...</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಅ. ರಾ. ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಗುವು ಸಹಜದ</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಾಜ್ಯೋತ್ಸವ</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಶ್ರೀನಿವಾಸ ವೈದ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಂಗಳ ಗ್ರಹಕ್ಕೆ...</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಅರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧರ್ಮಕ್ಷೇತ್ರೇ...</title>
+				<feature></feature>
+				<page>44</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ. ಶ್ಯಾಮಲ ರವಿಶಂಕರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಮದ....</title>
+				<feature></feature>
+				<page>50</page>
+				<allauthors>
+					<author lname="" fname="">ಭುವನೇಶ್ವರಿ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬುದ್ದಿವಂತರುಗಳಿವರು...</title>
+				<feature></feature>
+				<page>54</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತರ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬದುಕಲು ಕಲಿಸುವ..</title>
+				<feature></feature>
+				<page>55</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೊಸ ಬಾಟಲನಲ್ಲಿ ಹೊಸ ವೈನು</title>
+				<feature></feature>
+				<page>59</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಗುವೆಗೌಡರ ಹಳ್ಳಿಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>61</page>
+				<allauthors>
+					<author lname="" fname="">ಚಿಂತಾಮಣಿ ಕೊಡ್ಲೆಕೆರೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಬಂಧ - 5</title>
+				<feature></feature>
+				<page>66</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೂಗು</title>
+				<feature></feature>
+				<page>67</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಬರಲ್ ನ ಒರಲ್</title>
+				<feature></feature>
+				<page>70</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ರಾಮನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕುರುಡನ ಮಾಡಯ್ಯ ತಂದೆ..</title>
+				<feature></feature>
+				<page>74</page>
+				<allauthors>
+					<author lname="" fname="">ಜಿ. ಬಿ. ಕೋಟೆ ಅನಂತ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಫೋನೆಂಬ ಮಾಯಾಂಗನೆಗೆ..</title>
+				<feature></feature>
+				<page>78</page>
+				<allauthors>
+					<author lname="" fname="">ವೈ. ಎನ್. ಗುಂಡೂರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಿಟ್ಟು-ಪುಟ್ಟು-ಸಿಟ್ಟು..</title>
+				<feature></feature>
+				<page>84</page>
+				<allauthors>
+					<author lname="" fname="">ವೈ. ವಿ. ಗುಂಡೂರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚುನಾವಣಾ ಆಮಿಷ </title>
+				<feature></feature>
+				<page>90</page>
+				<allauthors>
+					<author lname="" fname="">ಎಂ. ಎಸ್. ನರಸಿಂಹಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮಜ್ಜಿಯರು</title>
+				<feature></feature>
+				<page>96</page>
+				<allauthors>
+					<author lname="" fname="">ಎಸ್. ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಫುಲ್ ಟೈಂ ಮಾಸ್ತರರ...</title>
+				<feature></feature>
+				<page>102</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಪಿ. ಕೃಷ್ಣಸ್ವಾಮಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರೋಗವೂ ಔಷಧವೂ</title>
+				<feature></feature>
+				<page>106</page>
+				<allauthors>
+					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮುಂಚಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಿಕ್ಷಾಪಾತ್ರೆ ಪ್ರಸಂಗ</title>
+				<feature></feature>
+				<page>111</page>
+				<allauthors>
+					<author lname="" fname="">ಶ್ರೀನಾಥ್ ಭಲ್ಲೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೀಗೊಂದು ವರಪರೀಕ್ಷೆ!!</title>
+				<feature></feature>
+				<page>114</page>
+				<allauthors>
+					<author lname="" fname="">ಸಹನಾ ಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಚೆಮನೆ ಸುಬ್ಬಮ್ಮನ...</title>
+				<feature></feature>
+				<page>117</page>
+				<allauthors>
+					<author lname="" fname="">ಶ್ರೀವತ್ಸ ಜೋಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಿಲೀವ್ ಇಟ್ ಅರ್  ನಾಟ್</title>
+				<feature></feature>
+				<page>119</page>
+				<allauthors>
+					<author lname="" fname="">ಬಿ. ವಿ. ಭಾರತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯುಗ ಯುಗಾದಿ ಕಳೆದರೂ</title>
+				<feature></feature>
+				<page>124</page>
+				<allauthors>
+					<author lname="" fname="">ಗೋಪಾಲಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನ್ಯೂಸ್ ಬುಕ್</title>
+				<feature></feature>
+				<page>126</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೈಟಿ ಮತ್ತು ನೊಬಲ್</title>
+				<feature></feature>
+				<page>130</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಶಾಂತ್ ಆಡೂರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಗೀತ ಮತ್ತು ಹಾಸ್ಯ</title>
+				<feature></feature>
+				<page>132</page>
+				<allauthors>
+					<author lname="" fname="">ಕೃಷ್ಣ ಸುಬ್ಬರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಛೀ.....ಕಳ್ಳಾ!</title>
+				<feature></feature>
+				<page>136</page>
+				<allauthors>
+					<author lname="" fname="">ಕುಮುದಾ ಪುರುಷೋತ್ತಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಬ್ಬಕನಾ ಕಥೆ</title>
+				<feature></feature>
+				<page>141</page>
+				<allauthors>
+					<author lname="" fname="">ಎಂ. ಕೆ. ಭಾಸ್ಕರ ರಾವ್</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="08" month="05" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೊಡ್ಡ ಜಾತ್ರೆ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಗಲ್ಯಂ ತಂತು........</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಅರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉತ್ತರವಲ್ಲದ ಉತ್ತರಗಳು</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="" fname="">ಸಹನಾ ಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature></feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರವಾಸದಲ್ಲೂ ಅಧ್ಯಯನ..</title>
+				<feature></feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ ಐತಾಳ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಬಂಧ</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಪ್ಟೀಷಿಯನ್ ಭಾಷೆ</title>
+				<feature></feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="" fname="">ಶ್ರೀನಿವಾಸ ಕುಂದಂತಾಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಿವೃತ್ತಿ-ಪ್ರವೃತ್ತಿ</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="" fname="">ನಂನಾಗ್ರಾಜ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀತಿ ಪಾಠ</title>
+				<feature></feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ಸಂಪಟೂರು ವಿಶ್ವನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಾರು ಚಪ್ಪಲಿ ಕಳ್ಳ?</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ. ಡಿ. ವಿ. ಗುರುಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುದ್ಧ ಆಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚನ್ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="09" month="06" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಮ್ಮಲ್ಲಿ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈಗ ಹೇಳಿ, ನಾನು......</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="">ಬಿಕೆಜಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತೂಕದ ವ್ಯಾಖಾನ</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಆರತಿ ಘಟಿಕರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಾಷ್ಟ್ರೀಯ ಗುಳುಂ....</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಗೌತಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಗುವುದಾದರೆ ನಕ್ಕುಬಿಡಿ</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಜಿ . ಸೋಮಶೇಖರ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಸಾರದ ಲೆಕ್ಕಾಚಾರ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಾವ ಬಸ್ಸೋ, ಯಾವ...</title>
+				<feature></feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಅರ್. ಹನುಮಂತ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪಧಪಂಧ</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುಗಲ ಮಾರಿಯೊಳಗ..</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಭೂಮಿತಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳ ಆಟದ....</title>
+				<feature></feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಅರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Pay ಕಮೀಷನ್</title>
+				<feature></feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="" fname="">ಜಿ. ಬಿ. ಕೋಟೆ ಅನಂತ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುಧ್ದ ಅಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="10" month="07" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಮ್ಮಲ್ಲಿ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮರೆವೆಯೆಂದರೆ ಇದೇನಾ...</title>
+				<feature></feature>
+				<page>8</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾನು ಹೋಂ ವರ್ಕ್......</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ವೈ. ಎನ್. ಗುಂಡೂರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೆಂಡತಿಯನ್ನು .......</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಶರತ್ ಕಲ್ಕೋಡ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜೋಳದ ರೊಟ್ಟಿ</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಗುಂಡುರಾವ್ ದೇಸಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature></feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೋದಿ ಜೆರಾಕ್ಸ್!</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪಧಪಂಧ</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇರಲಾರ್ದೆ , ಇರ್ವೇ....</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಅರ್. ಹನುಮಂತ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಜ್ಜಿಯ ಹೊಸ ಹೊಸ....</title>
+				<feature></feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ರಮ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನರ್ಸಿಂಗ್......</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ನೀರಗುಂದ ಕೇಶವಮೂರ್ತಿ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುಧ್ದ ಅಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="11" month="08" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಮ್ಮಲ್ಲಿ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಾರೋ ಬಾರೋ...</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಬಂಧ</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜೆ-ಜೆ ಸ್ಕೂಲ್ ಆಫ್ ....</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಅರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಿನಿ ಮನೆ (ವನ)ವಾಸ</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಆರತಿ ಘಟಿಕಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಂದು ಟೂತ್ ಬ್ರಶ್ ನ</title>
+				<feature></feature>
+				<page>22</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅರ್ಥವಾಗದ  ರೂಲ್ಸು!</title>
+				<feature></feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="" fname="">ನುಗ್ಗೇಹಳ್ಳಿ ಪಂಕಜ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುಖ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮುಂಚಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎರಡನೇ ಬಾಲ್ಯ</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ನಂನಾಗ್ರಾಜ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರುಳಿಕಟ್ಟು</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature></feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅವರವರ ಗೊಡವೆ.....</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಸುಕೇಶವ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುಧ್ದ ಅಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="12" month="09" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಮ್ಮಲ್ಲಿ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾತಿನಿಂದಲೇ.......</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="" fname="">ವೈ. ಎನ್. ಗುಂಡೂರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಸ್ಬೆಂಡ್ - ಬೇಕೇ?</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="" fname="">ನುಗ್ಗೆಹಳ್ಳಿ ಪಂಕಜ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾತು ಮುತ್ತು</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ಜಿಬಿಕೋಟೆ ಅನಂತ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಪಂಧ</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಾಸ್ಯೌಷಧಿ</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಸಂಪಟೂರು ವಿಶ್ವನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕತ್ತೆ ಚಾಕರಿ</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಕುಮುದಾ ಪುರುಷೋತ್ತಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಯ್ದ ಚಾಣಕ್ಯ....</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರಳಿಕಟ್ಟು</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇಲಿ ಹಿಡಿಯಕ್ಹೋಗಿ.......</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವ್ರೇ..... ಗತಿ!</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="" fname="">ಲತಾ ಉದಯ ಹೆಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature></feature>
+				<page>39</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುದ್ದ ಅಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+</apr>
