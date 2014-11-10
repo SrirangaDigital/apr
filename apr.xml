@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE res SYSTEM "res.dtd">
+<!DOCTYPE apr SYSTEM "res.dtd">
 
 <apr>
 	<volume vnum="28">
@@ -5461,7 +5461,7 @@
 				<feature></feature>
 				<page>23</page>
 				<allauthors>
-					<author lname="" fname=""> ಸಿ. ಅರ್. ಸತ್ಯ</author>
+					<author lname="" fname="">ಸಿ. ಅರ್. ಸತ್ಯ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5502,6 +5502,112 @@
 				<page>40</page>
 				<allauthors>
 					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="11" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀಲಾಕಾಶದಲ್ಲೊಂದು....</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚೊಂಬು....</title>
+				<feature></feature>
+				<page>8</page>
+				<allauthors>
+					<author lname="" fname="">ಇ. ಅರ್. ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಛೂಬಾಣದ ಆನರ್ಥ.....</title>
+				<feature></feature>
+				<page>11</page>
+				<allauthors>
+					<author lname="" fname="">ಸುಕೇಶವ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧರ್ಮಕ್ಷೇತ್ರೇ......</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ. ಶಾಮಲ ರವಿಶಂಕರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಂದೇ ವಾಕ್ಯದ......</title>
+				<feature></feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ಸಂಪಟೂರು ವಿಶ್ವನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature>ತುಂತುರು</feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರೈಟ್ಹೋ  ಜೀವು , ನೀ....</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಪಂಧ</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ತೂಕದವರು</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಾಣೇಶ್ ಗುಡಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರಳಿಕಟ್ಟು</title>
+				<feature>ಹುರಳಿಕಟ್ಟು</feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಿಮ್ಮ ನಿಮ್ಮ ಕೆಲಸ</title>
+				<feature></feature>
+				<page>39</page>
+				<allauthors>
+					<author lname="" fname="">ಹಾ. ಮೈ. ಸೂರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಬಾಮ ಮತ್ತು....</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಆನಂದ</author>
 				</allauthors>
 			</entry>
 		</issue>
