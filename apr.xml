@@ -5611,5 +5611,103 @@
 				</allauthors>
 			</entry>
 		</issue>
+		<issue inum="03" month="12" year="2014">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತೀರ್ಥರಾಜಪುರ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಟ್ರಿಕಾರ್ ಟ್ರೀಟಾಯ...</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ವಾಣಿ ಸುರೇಶ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೀರಿಯಸ್ ಗಣಿತಜ್ಞರು....</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="" fname="">ರೋಹಿತ್ ಭಟ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುತ್ತಿನ ಮಾತು</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಭೂಮಿತಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರ್ನಾಟಕ ವೈಭಯ!</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಪಂಧ</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕದ್ದು ಕೇಳಿದ್ದು</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಅರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಸನ್ಮಾನ ದುಮ್ಮಾನ</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹುರಳಿಕಟ್ಟು</title>
+				<feature>ಹುರಳಿಕಟ್ಟು</feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುಧ್ದ ಅಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
+				</allauthors>
+			</entry>
+		</issue>
 	</volume>
 </apr>
