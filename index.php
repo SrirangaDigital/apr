@@ -11,6 +11,7 @@ session_start();
 	<link href="php/style/indexstyle.css" rel="stylesheet"/>
 </head>
 
+
 <body>
 <div class="page">
 	<div class="header">
