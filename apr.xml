@@ -145,7 +145,7 @@
 				<feature></feature>
 				<page>88</page>
 				<allauthors>
-					<author lname="ಗುಂಡೂರಾವ್" fname="ವೈ. ವಿ.">ವೈ.  ವಿ. ಗುಂಡೂರಾವ್</author>
+					<author lname="ಗುಂಡೂರಾವ್" fname="ವೈ. ವಿ.">ವೈ. ವಿ. ಗುಂಡೂರಾವ್/author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -343,7 +343,7 @@
 				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
 				<page>25</page>
 				<allauthors>
-					<author lname="ಗೋಪಾಲಕಷ್ಣ" fname="ಎಚ್.">ಎಚ್. ಗೋಪಾಲಕಷ್ಣ</author>
+					<author lname="ಗೋಪಾಲಕಷ್ಣ" fname="ಎಚ್.">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -497,7 +497,7 @@
 				<feature></feature>
 				<page>34</page>
 				<allauthors>
-					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -595,7 +595,7 @@
 				<feature></feature>
 				<page>28</page>
 				<allauthors>
-					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -685,7 +685,7 @@
 				<feature></feature>
 				<page>26</page>
 				<allauthors>
-					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry> 
 			<entry>
@@ -791,7 +791,7 @@
 				<feature></feature>
 				<page>18</page>
 				<allauthors>
-					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -897,7 +897,7 @@
 				<feature></feature>
 				<page>24</page>
 				<allauthors>
-					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -987,7 +987,7 @@
 				<feature></feature>
 				<page>7</page>
 				<allauthors>
-					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1035,7 +1035,7 @@
 				<feature></feature>
 				<page>14</page>
 				<allauthors>
-					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1155,7 +1155,7 @@
 				<feature></feature>
 				<page>35</page>
 				<allauthors>
-					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1253,7 +1253,7 @@
 				<feature></feature>
 				<page>15</page>
 				<allauthors>
-					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1311,7 +1311,7 @@
 				<feature></feature>
 				<page>14</page>
 				<allauthors>
-					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1319,7 +1319,7 @@
 				<feature></feature>
 				<page>17</page>
 				<allauthors>
-					<author lname="ಹನುಮಂತರಾವ್" fname="ಎಚ್. ಆರ್.">ಎಚ್. ಆರ್. ಹನುಮಂತರಾವ್</author>
+					<author lname="ಹನುಮಂತರಾವ್" fname="ಎಚ್. ಆರ್.">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1367,7 +1367,7 @@
 				<feature></feature>
 				<page>36</page>
 				<allauthors>
-					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1407,7 +1407,7 @@
 				<feature></feature>
 				<page>15</page>
 				<allauthors>
-					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1445,7 +1445,7 @@
 				<feature></feature>
 				<page>31</page>
 				<allauthors>
-					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="ಸುರೇಶ್" fname="ವಾಣೀ">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry> 
 			<entry>
@@ -1607,7 +1607,7 @@
 				<feature></feature>
 				<page>73</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತರಾವ್</author>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1631,7 +1631,7 @@
 				<feature></feature>
 				<page>86</page>
 				<allauthors>
-					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1679,7 +1679,7 @@
 				<feature></feature>
 				<page>115</page>
 				<allauthors>
-					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="" fname="">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1835,7 +1835,7 @@
 				<feature></feature>
 				<page>22</page>
 				<allauthors>
-					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1899,7 +1899,7 @@
 				<feature></feature>
 				<page>6</page>
 				<allauthors>
-					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2053,7 +2053,7 @@
 				<feature></feature>
 				<page>27</page>
 				<allauthors>
-					<author lname="" fname="">ಡಾ|| ಡಿ . ವಿ. ಗುರುಪ್ರಸಾದ್</author>
+					<author lname="" fname="">ಡಾ|| ಡಿ. ವಿ. ಗುರುಪ್ರಸಾದ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2257,7 +2257,7 @@
 				<feature></feature>
 				<page>38</page>
 				<allauthors>
-					<author lname="" fname="">ಡಾ|| ಡಿ . ವಿ. ಗುರುಪ್ರಸಾದ್</author>
+					<author lname="" fname="">ಡಾ|| ಡಿ. ವಿ. ಗುರುಪ್ರಸಾದ್</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -2381,7 +2381,7 @@
 				<feature></feature>
 				<page>14</page>
 				<allauthors>
-					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="" fname="">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2473,7 +2473,7 @@
 				<feature>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</feature>
 				<page>4</page>
 				<allauthors>
-					<author lname="" fname="">ಶಿವಕುಮಾರ್ಯ</author>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2537,7 +2537,7 @@
 				<feature></feature>
 				<page>28</page>
 				<allauthors>
-					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="" fname="">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2625,7 +2625,7 @@
 				<feature></feature>
 				<page>24</page>
 				<allauthors>
-					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="" fname="">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2803,7 +2803,7 @@
 				<feature></feature>
 				<page>19</page>
 				<allauthors>
-					<author lname="" fname="">ಡಾ|| ಡಿ . ವಿ. ಗುರುಪ್ರಸಾದ್</author>
+					<author lname="" fname="">ಡಾ|| ಡಿ. ವಿ. ಗುರುಪ್ರಸಾದ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3009,7 +3009,7 @@
 				<feature></feature>
 				<page>107</page>
 				<allauthors>
-					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="" fname="">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3115,7 +3115,7 @@
 				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
 				<page>31</page>
 				<allauthors>
-					<author lname="" fname="">ಆರತಿ ಘಟಿಕಾರ, ದುಬೈ</author>
+					<author lname="" fname="">ಆರತಿ ಘಟಿಕಾರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3253,7 +3253,7 @@
 				<feature></feature>
 				<page>38</page>
 				<allauthors>
-					<author lname="" fname="">ಡಾ|| ಡಿ . ವಿ. ಗುರುಪ್ರಸಾದ್</author>
+					<author lname="" fname="">ಡಾ|| ಡಿ. ವಿ. ಗುರುಪ್ರಸಾದ್</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3303,7 +3303,7 @@
 				<feature></feature>
 				<page>19</page>
 				<allauthors>
-					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3507,7 +3507,7 @@
 				<feature>ಹುರುಳಿಕಟ್ಟು</feature>
 				<page>14</page>
 				<allauthors>
-					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3613,7 +3613,7 @@
 				<feature></feature>
 				<page>19</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತರಾವ್</author>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3801,7 +3801,7 @@
 				<feature></feature>
 				<page>18</page>
 				<allauthors>
-					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3857,7 +3857,7 @@
 				<feature></feature>
 				<page>39</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -3973,7 +3973,7 @@
 				<feature></feature>
 				<page>40</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -4087,7 +4087,7 @@
 				<feature></feature>
 				<page>40</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -4121,7 +4121,7 @@
 				<feature></feature>
 				<page>10</page>
 				<allauthors>
-					<author lname="" fname="">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4193,7 +4193,7 @@
 				<feature></feature>
 				<page>30</page>
 				<allauthors>
-					<author lname="" fname="">ಶ್ರೀನಾಥ ಭಲ್ಲೆ</author>
+					<author lname="" fname="">ಶ್ರೀನಾಥ್ ಭಲ್ಲೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4217,7 +4217,7 @@
 				<feature></feature>
 				<page>40</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -4307,7 +4307,7 @@
 				<feature></feature>
 				<page>27</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತರಾವ್</author>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4323,7 +4323,7 @@
 				<feature></feature>
 				<page>40</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -4437,7 +4437,7 @@
 				<feature></feature>
 				<page>40</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -4471,7 +4471,7 @@
 				<feature></feature>
 				<page>13</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತರಾವ್</author>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4511,7 +4511,7 @@
 				<feature></feature>
 				<page>27</page>
 				<allauthors>
-					<author lname="" fname="">ಜಿ. ಬಿ. ಕೋಟೆ ಅನಂತ</author>
+					<author lname="" fname="">ಜಿ. ಬಿ. ಕೋಟೆ ಅನಂತ್</author>
 				</allauthors>
 			</entry> 
 			<entry>
@@ -4551,7 +4551,7 @@
 				<feature></feature>
 				<page>39</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್ಚೆನ್ ಎ</author>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -4617,7 +4617,7 @@
 				<feature></feature>
 				<page>40</page>
 				<allauthors>
-					<author lname="" fname="">ಇ. ಅರ್. ರಾಮಚಂದ್ರನ್</author>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4641,7 +4641,7 @@
 				<feature></feature>
 				<page>54</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತರ ರಾವ್</author>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4743,7 +4743,7 @@
 				<feature></feature>
 				<page>106</page>
 				<allauthors>
-					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮುಂಚಿ</author>
+					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮಂಚಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4799,7 +4799,7 @@
 				<feature></feature>
 				<page>130</page>
 				<allauthors>
-					<author lname="" fname="">ಪ್ರಶಾಂತ್ ಆಡೂರ್</author>
+					<author lname="" fname="">ಪ್ರಶಾಂತ ಕೆ. ಅಡೂರ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4823,7 +4823,7 @@
 				<feature></feature>
 				<page>141</page>
 				<allauthors>
-					<author lname="" fname="">ಎಂ. ಕೆ. ಭಾಸ್ಕರ ರಾವ್</author>
+					<author lname="" fname="">ಎಂ. ಕೆ. ಭಾಸ್ಕರರಾವ್</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -4849,7 +4849,7 @@
 				<feature></feature>
 				<page>12</page>
 				<allauthors>
-					<author lname="" fname="">ಇ. ಅರ್. ರಾಮಚಂದ್ರನ್</author>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4873,7 +4873,7 @@
 				<feature></feature>
 				<page>20</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ ಐತಾಳ್</author>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4889,7 +4889,7 @@
 				<feature></feature>
 				<page>25</page>
 				<allauthors>
-					<author lname="" fname="">ಶ್ರೀನಿವಾಸ ಕುಂದಂತಾಯ</author>
+					<author lname="" fname="">ಶ್ರೀನಿವಾಸ ಕುಂಡಂತಾಯ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4929,7 +4929,7 @@
 				<feature></feature>
 				<page>40</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್ಚನ್ಎ</author>
+					<author lname="" fname="">ಎಚ್ಚೆನ್ಎ</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -4963,7 +4963,7 @@
 				<feature></feature>
 				<page>9</page>
 				<allauthors>
-					<author lname="" fname="">ಆರತಿ ಘಟಿಕರ್</author>
+					<author lname="" fname="">ಆರತಿ ಘಟಿಕಾರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4979,7 +4979,7 @@
 				<feature></feature>
 				<page>18</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್. ಜಿ . ಸೋಮಶೇಖರ ರಾವ್</author>
+					<author lname="" fname="">ಎಚ್. ಜಿ. ಸೋಮಶೇಖರ್ ರಾವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5003,7 +5003,7 @@
 				<feature></feature>
 				<page>25</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್. ಅರ್. ಹನುಮಂತ ರಾವ್</author>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5035,7 +5035,7 @@
 				<feature></feature>
 				<page>35</page>
 				<allauthors>
-					<author lname="" fname="">ಇ. ಅರ್. ರಾಮಚಂದ್ರನ್</author>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5043,7 +5043,7 @@
 				<feature></feature>
 				<page>38</page>
 				<allauthors>
-					<author lname="" fname="">ಜಿ. ಬಿ. ಕೋಟೆ ಅನಂತ</author>
+					<author lname="" fname="">ಜಿ. ಬಿ. ಕೋಟೆ ಅನಂತ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5133,7 +5133,7 @@
 				<feature></feature>
 				<page>29</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್. ಅರ್. ಹನುಮಂತ ರಾವ್</author>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5207,7 +5207,7 @@
 				<feature></feature>
 				<page>15</page>
 				<allauthors>
-					<author lname="" fname="">ಇ. ಅರ್. ರಾಮಚಂದ್ರನ್</author>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5231,7 +5231,7 @@
 				<feature></feature>
 				<page>25</page>
 				<allauthors>
-					<author lname="" fname="">ನುಗ್ಗೇಹಳ್ಳಿ ಪಂಕಜ</author>
+					<author lname="" fname="">ನುಗ್ಗೆಹಳ್ಳಿ ಪಂಕಜ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5239,7 +5239,7 @@
 				<feature></feature>
 				<page>27</page>
 				<allauthors>
-					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮುಂಚಿ</author>
+					<author lname="" fname="">ಅನಿತಾ ನರೇಶ್ ಮಂಚಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5321,7 +5321,7 @@
 				<feature></feature>
 				<page>13</page>
 				<allauthors>
-					<author lname="" fname="">ಜಿಬಿಕೋಟೆ ಅನಂತ್</author>
+					<author lname="" fname="">ಜೇಬಿ ಕೋಟೆ ಅನಂತ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5461,7 +5461,7 @@
 				<feature></feature>
 				<page>23</page>
 				<allauthors>
-					<author lname="" fname="">ಸಿ. ಅರ್. ಸತ್ಯ</author>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5485,7 +5485,7 @@
 				<feature></feature>
 				<page>33</page>
 				<allauthors>
-					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ ಐತಾಳ</author>
+					<author lname="" fname="">ಎಚ್. ಶಾಂತರಾಜ್ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5519,7 +5519,7 @@
 				<feature></feature>
 				<page>4</page>
 				<allauthors>
-					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ್</author>
+					<author lname="" fname="">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5527,7 +5527,7 @@
 				<feature></feature>
 				<page>8</page>
 				<allauthors>
-					<author lname="" fname="">ಇ. ಅರ್. ರಾಮಚಂದ್ರನ್</author>
+					<author lname="" fname="">ಇ. ಆರ್. ರಾಮಚಂದ್ರನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5633,7 +5633,7 @@
 				<feature></feature>
 				<page>10</page>
 				<allauthors>
-					<author lname="" fname="">ವಾಣಿ ಸುರೇಶ</author>
+					<author lname="" fname="">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5673,7 +5673,7 @@
 				<feature></feature>
 				<page>27</page>
 				<allauthors>
-					<author lname="" fname="">ಸಿ. ಅರ್. ಸತ್ಯ</author>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5731,7 +5731,7 @@
 				<feature></feature>
 				<page>6</page>
 				<allauthors>
-					<author lname="" fname="">ವಾಣೀ ಸುರೇಶ</author>
+					<author lname="" fname="">ವಾಣಿ ಸುರೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5787,7 +5787,7 @@
 				<feature></feature>
 				<page>32</page>
 				<allauthors>
-					<author lname="" fname="">ನುಗ್ಗೇಹಳ್ಳಿ ಪಂಕಜ</author>
+					<author lname="" fname="">ನುಗ್ಗೆಹಳ್ಳಿ ಪಂಕಜ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5803,7 +5803,7 @@
 				<feature></feature>
 				<page>40</page>
 				<allauthors>
-					<author lname="" fname="">ಪ್ರಶಾಂತ ಅಡಾರ</author>
+					<author lname="" fname="">ಪ್ರಶಾಂತ ಕೆ. ಅಡೂರ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5812,6 +5812,128 @@
 				<page>41</page>
 				<allauthors>
 					<author lname="" fname="">ಹನಸೋಗೆ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="02" year="2015">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆರ್. ಕೆ. ಲಕ್ಷ್ಮಣ್</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚೊಟ್ಟೆಯಂಡ  ಹೋಮ್.....</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="">ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕತ್ತೆ ಮತ್ತು ಎಮ್ಮೆ ....</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುಬ್ರಾಮುಗೆ ಸಿಂಪಥಿ</title>
+				<feature></feature>
+				<page>16</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊನೆಯ ಮಾತು</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಸು. ವಿಜಯಲಕ್ಷ್ಮಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೊರೂರರ ತಿಳಿಹಾಸ್ಯದ....</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಸುಕೇಶವ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಡ್ಲೆಕಾಯಿ ಕಥೆ</title>
+				<feature></feature>
+				<page>25</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature></feature>
+				<page>26</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಮೂರು ತಲೆಮಾರಿನ....</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ಡಾ. ರುದ್ರಯ್ಯ ವಿ.</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪಧಪಂಧ</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಸ್ಟ್ ಮಿಸ್ಸೋ....</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಗುಂಡುರಾವ್ ದೇಸಾಯಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಏಕಾದಶಿ ವೃತ ಭಂಗ</title>
+				<feature></feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ಶರತ್ ಕಲ್ಕೋಡ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಣುಕು ಗೀತೆ</title>
+				<feature></feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="" fname="">ಶ್ರೀವತ್ಸ ಜೋಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇಲ್ಲಿ ಪಿಂಡಗಳು....</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಶಾಂತ ಕೆ. ಅಡೂರ</author>
 				</allauthors>
 			</entry>
 		</issue>
