@@ -1,7 +1,10 @@
 <div class="main_comments">
 
 <?php
-
+$com_name="";
+$com_email="";
+$com_text="";
+$email_error = 0;
 //~ include("connect_db.php");
 //~ 
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
