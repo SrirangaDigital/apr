@@ -145,7 +145,7 @@
 				<feature></feature>
 				<page>88</page>
 				<allauthors>
-					<author lname="ಗುಂಡೂರಾವ್" fname="ವೈ. ವಿ.">ವೈ. ವಿ. ಗುಂಡೂರಾವ್/author>
+					<author lname="ಗುಂಡೂರಾವ್" fname="ವೈ. ವಿ.">ವೈ. ವಿ. ಗುಂಡೂರಾವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5932,6 +5932,112 @@
 				<title>ಇಲ್ಲಿ ಪಿಂಡಗಳು....</title>
 				<feature></feature>
 				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಶಾಂತ ಕೆ. ಅಡೂರ</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" month="03" year="2015">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆರ್ .ಕೆ. ಲಕ್ಷ್ಮಣ್....</title>
+				<feature></feature>
+				<page>8</page>
+				<allauthors>
+					<author lname="" fname="">ವಸಂತ ಹೊಸಬೆಟ್ಟು </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮದುವೆ ಮನೆ ಡಿನ್ನರ್</title>
+				<feature></feature>
+				<page>13</page>
+				<allauthors>
+					<author lname="" fname="">ನಾ. ಕಸ್ತೂರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೋಂದಣಿ ಪುರಾಣವು </title>
+				<feature></feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ಎನ್. ರಾಮನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಟಾಯ್ಲೆಟ್ ತಾರೆಯರು</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊರವಂಜಿ ಪದಬಂಧ</title>
+				<feature></feature>
+				<page>28</page>
+				<allauthors>
+					<author lname="" fname="">ವಿದ್ಯಾ ವಿ. ಹಾಲಭಾವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೊಸ ಭಾಸನ....</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಗೋಪಾಲಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೀರಿಯಲ್ ......</title>
+				<feature></feature>
+				<page>31</page>
+				<allauthors>
+					<author lname="" fname="">ಗಣೇಶ್ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ನಾಗರ ಪಂಚಮಿಯೊಳಗೆ....</title>
+				<feature></feature>
+				<page>35</page>
+				<allauthors>
+					<author lname="" fname="">ಬಿ. ಸಿ. ಬಹದ್ದೂರ ದೆಸಯೀ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಲಿಫ್ಟ್ ನಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡಾಗ....</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಲ್ಕು ವರ್ಷಕ್ಕೊಮೆ....</title>
+				<feature></feature>
+				<page>39</page>
 				<allauthors>
 					<author lname="" fname="">ಪ್ರಶಾಂತ ಕೆ. ಅಡೂರ</author>
 				</allauthors>
