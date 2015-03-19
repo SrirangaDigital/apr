@@ -9,7 +9,7 @@ $pwd = $ARGV[3];
 
 use DBI();
 
-open(IN, "apr.xml") or die "can't open apr.xml\n";
+open(IN, "<:utf8", "apr.xml") or die "can't open apr.xml\n";
 
 $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 $sth_enc=$dbh->prepare("set names utf8");
