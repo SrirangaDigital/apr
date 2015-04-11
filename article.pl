@@ -12,9 +12,14 @@ use DBI();
 open(IN, "<:utf8", "apr.xml") or die "can't open apr.xml\n";
 
 $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
+
 $sth_enc=$dbh->prepare("set names utf8");
 $sth_enc->execute();
 $sth_enc->finish();
+
+$sth_drop=$dbh->prepare("DROP TABLE IF EXISTS article");
+$sth_drop->execute();
+$sth_drop->finish();
 
 $sth11=$dbh->prepare("CREATE TABLE article(title varchar(500), 
 authid varchar(200),
@@ -25,7 +30,7 @@ volume varchar(3),
 issue varchar(5),
 year int(4), 
 month varchar(2),
-titleid int(6) auto_increment, primary key(titleid))auto_increment=10001 ENGINE=MyISAM character set utf8 collate utf8_general_ci");
+titleid int(6) auto_increment, primary key(titleid))auto_increment=10001 ENGINE=MyISAM CHARACTER SET utf8 COLLATE utf8_general_ci");
 
 $sth11->execute();
 $sth11->finish();

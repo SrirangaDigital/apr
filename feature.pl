@@ -12,13 +12,18 @@ use DBI();
 open(IN, "<:utf8", "apr.xml") or die "can't open apr.xml\n";
 
 $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
+
 $sth_enc=$dbh->prepare("set names utf8");
 $sth_enc->execute();
 $sth_enc->finish();
 
-$sth11=$dbh->prepare("create table feature(feat_name varchar(200),
+$sth_drop=$dbh->prepare("DROP TABLE IF EXISTS feature");
+$sth_drop->execute();
+$sth_drop->finish();
+
+$sth11=$dbh->prepare("CREATE TABLE feature(feat_name varchar(200),
 featid int(6) auto_increment,
-primary key(featid))auto_increment=10001 ENGINE=MyISAM character set utf8 collate utf8_general_ci");
+primary key(featid))auto_increment=10001 ENGINE=MyISAM CHARACTER SET utf8 COLLATE utf8_general_ci");
 
 $sth11->execute();
 $sth11->finish();

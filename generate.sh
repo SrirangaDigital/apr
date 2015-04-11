@@ -5,7 +5,7 @@ db='apr';
 usr='root';
 pwd='mysql';
 
-echo "drop database if exists $db; create database $db  DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;" | /usr/bin/mysql -u root -pmysql
+echo "CREATE DATABASE IF NOT EXISTS $db  DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;" | /usr/bin/mysql -u $usr -p$pwd
 perl author.pl $host $db $usr $pwd
 perl feature.pl $host $db $usr $pwd
 perl article.pl $host $db $usr $pwd
