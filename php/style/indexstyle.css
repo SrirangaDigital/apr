@@ -497,6 +497,11 @@ color: #B23C3C;
 	border: 1px solid #800000;
 	margin: 0.5em 0 0.5em 0;
 }
+.clearfix{
+	clear: both;
+	margin: 0;
+}
+
 #lightbox{	position: absolute;	left: 0; width: 100%; z-index: 100; text-align: center; line-height: 0;}
 #lightbox img{ width: auto; height: auto;}
 #lightbox a img{ border: none; }
