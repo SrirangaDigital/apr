@@ -5959,7 +5959,7 @@
 				<feature></feature>
 				<page>8</page>
 				<allauthors>
-					<author lname="" fname="">ವಸಂತ ಹೊಸಬೆಟ್ಟು </author>
+					<author lname="" fname="">ವಸಂತ ಹೊಸಬೆಟ್ಟು</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8113,7 +8113,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಅಜ್ಜಿಯ ಯುನೀಕ್.... </title>
+				<title>ಅಜ್ಜಿಯ ಯುನೀಕ್....</title>
 				<feature></feature>
 				<page>7</page>
 				<allauthors>
@@ -8408,6 +8408,120 @@
 			</entry>
 			<entry>
 				<title>ಇಲ್ಲಿರುವುದು ಸುಮ್ಮನೆ....</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಎಂ. ಕೆ. ಭಾಸ್ಕರರಾವ್</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="12" year="2016">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature>ಅಪರಂಜಿ ಕಿಡಿ</feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದ ಲೇಡಿ ಆನ್ ದ....</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪತ್ರಿಕೆಗೆ ಪುನರ್ಜೀವ</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="" fname="">ಚಿತ್ರಾ ರಾಮಚಂದ್ರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಖರ್ಚಾಗಲೇ ಇಲ್ಲ !</title>
+				<feature></feature>
+				<page>14</page>
+				<allauthors>
+					<author lname="" fname="">ಕೆ. ಕೆ. ಗಂಗಾಧರನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶಸ್ತಿ ಎಂಬ ಶಕ್ತಿ</title>
+				<feature></feature>
+				<page>19</page>
+				<allauthors>
+					<author lname="" fname="">ಡಿ. ಎನ್. ಶ್ರೀನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜೇಬುಗಳ್ಳನೊಡನೆ....</title>
+				<feature></feature>
+				<page>24</page>
+				<allauthors>
+					<author lname="" fname="">ಡಿ. ಎನ್. ಶ್ರೀನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳಿಂದ ಪಾಠ</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry> 
+			<entry>
+				<title>ಮರೋ ಹಿರೋಶಿಮಾ</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ಯತಿರಾಜ್ ವೀರಾಂಬುಧಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಮ್ಮ, ನಾಳೆ ನಾನು....</title>
+				<feature></feature>
+				<page>32</page>
+				<allauthors>
+					<author lname="" fname="">ಹ. ಶಿ. ಭೈರನಟ್ಟಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನನ್ನ ಬ್ಯಾಂಕ್ ಖಾತೆ</title>
+				<feature></feature>
+				<page>34</page>
+				<allauthors>
+					<author lname="" fname="">ಎಚ್. ಆರ್. ಹನುಮಂತ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಏನಮ್ಮ ಕಾವೇರಮ್ಮ....</title>
+				<feature></feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="" fname="">ನುಗ್ಗೆಹಳ್ಳಿ ಪಂಕಜ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>"ವಿಗ್" ನೇಶ್ವರನೂ....</title>
 				<feature></feature>
 				<page>40</page>
 				<allauthors>
