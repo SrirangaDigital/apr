@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Aparanji</title>
+<title>ಅಪರಂಜಿ</title>
 <link rel="shortcut icon" href="images/aplogo.ico">
 <link href="style/reset.css"  rel="stylesheet"/>
 <link href="style/indexstyle.css"  rel="stylesheet"/>
