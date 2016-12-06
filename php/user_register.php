@@ -4,6 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Aparanji</title>
+<link rel="shortcut icon" href="images/aplogo.ico">
 <link href="style/reset.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="style/indexstyle.css" media="screen" rel="stylesheet" type="text/css" />
 </head>

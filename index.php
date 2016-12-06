@@ -7,6 +7,7 @@ session_start();
 <head>
 	<meta charset="UTF-8"/>
 	<title>Aparanji</title>
+	<link rel="shortcut icon" href="php/images/aplogo.ico">
 	<link href="php/style/reset.css" rel="stylesheet"/>
 	<link href="php/style/indexstyle.css" rel="stylesheet"/>
 </head>
