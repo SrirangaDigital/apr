@@ -4,7 +4,7 @@
 	$pwd="mysql";
 	$db="apr";
 	$volume='34';
-	$issue='6';
+	$issue='7';
 	
 	$db_con=mysql_connect("$host","$usr","$pwd");
 	mysql_select_db("$db",$db_con);
