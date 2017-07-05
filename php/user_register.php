@@ -111,17 +111,14 @@ if ($flag == 1)
 }
 elseif($flag == 0)
 {
-	include("connect.php");
+	include("connect_db.php");
 
-	$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-	$rs = mysql_select_db($database,$db) or die("No Database");
-	
-	$result = mysql_query("select * from register where email='$email'");
-	$num_rows = mysql_num_rows($result);
+	$result = $mysqli->query("select * from register where email='$email'");
+	$num_rows = $result->num_rows;
 	
 	if($num_rows == 0)
 	{
-		$result1 = mysql_query("insert into register values('$name', '$address', '$email', '$phone')");
+		$result1 = $mysqli->query("insert into register values('$name', '$address', '$email', '$phone')");
 		
 		echo "<span class=\"authorspan\">ನಿಮ್ಮ ಹೆಸರನ್ನು ಯಶಸ್ವಿಯಾಗಿ ನೋಂದಾಯಿಸಲಾಗಿದೆ</span><br /><br />";
 		echo "<span class=\"titlespan\">ಹೆಸರು&nbsp;:&nbsp</span><span class=\"authorspan\">$name</span><br />";
