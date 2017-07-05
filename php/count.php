@@ -13,7 +13,7 @@ else
  
 	$pick = "select count from counter";
 	$pick_result = $mysqli->query($pick);
-	$num_results = $pick_result->num_rows($pick_result);
+	$num_results = $pick_result->num_rows;
 	
 	if($num_results)
 	{
