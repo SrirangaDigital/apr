@@ -47,26 +47,30 @@
 	<div class="mainpage">
 		<div class="about">
 			<?php
-				$month=array("ಜನವರಿ","ಫೆಬ್ರವರಿ","ಮಾರ್ಚ್","ಏಪ್ರಿಲ್","ಮೇ","ಜೂನ್","ಜುಲೈ","ಆಗಸ್ಟ್","ಸೆಪ್ಟೆಂಬರ್","ಅಕ್ಟೋಬರ್","ನವೆಂಬರ್","ಡಿಸೆಂಬರ್");
+				
+				$month = array("ಜನವರಿ","ಫೆಬ್ರವರಿ","ಮಾರ್ಚ್","ಏಪ್ರಿಲ್","ಮೇ","ಜೂನ್","ಜುಲೈ","ಆಗಸ್ಟ್","ಸೆಪ್ಟೆಂಬರ್","ಅಕ್ಟೋಬರ್","ನವೆಂಬರ್","ಡಿಸೆಂಬರ್");
 				include("connect_db.php");
 				$authid=$_GET['authid'];
-				$result=mysql_query("select * from author where authid=$authid");
-				$num_rows=mysql_num_rows($result);
+				$result = $mysqli->query("select * from author where authid=$authid");
+				$num_rows = $result->num_rows;
+				
 				if($num_rows>0)
 				{
-					$row=mysql_fetch_assoc($result);
+					$row = $result->fetch_assoc();
+					
 					echo "<div class=\"editor_rule\">&nbsp;</div>";
 					echo "<span class=\"title\"><a href=\"javascript:void()\">".$row['authorname']." ಅವರ ಲೇಖನಗಳು</a></span><br /><br />";
 				}
 				
 				
-				$result=mysql_query("select * from article where authid=$authid");
-				$num_rows=mysql_num_rows($result);
+				$result = $mysqli->query("select * from article where authid=$authid");
+				$num_rows = $result->num_rows;
+				
 				if($num_rows>0)
 				{
 					for($i=0;$i<$num_rows;$i++)
 					{
-						$row=mysql_fetch_assoc($result);
+						$row = $result->fetch_assoc();
 						echo"<li><span class=\"articlespan\"><a href=\"../Volumes/".$row['year']."_".$row['month'].".pdf#page=".$row['page']."\" target=\"_blank\">".$row['title']."</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class=\"authorspan\"><a href=\"issue.php?year=".$row['year']."#nav_c".$row['year'].(intval($row['month'])-1)."\">".$month[$row['month']-1]." ".$row['year']."</a></span></li>";
 					}	
 				}	

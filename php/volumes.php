@@ -48,13 +48,13 @@
 		<div class="about">
 			<?php
 				include("connect_db.php");
-				$result=mysql_query("select distinct year from article");
-				$num_rows=mysql_num_rows($result);
+				$result = $mysqli->query("select distinct year from article");
+				$num_rows = $result->num_rows;
 				if($num_rows>0)
 				{
 					for($i=0;$i<$num_rows;$i++)
 					{
-						$row=mysql_fetch_assoc($result);
+						$row = $result->fetch_assoc();
 						echo "<div class=\"editor_rule\">&nbsp;</div>";
 						echo "<span class=\"title\"><a href=\"issue.php?year=".$row['year']."\">".$row['year']."</a></span><br /><br />";
 					}	

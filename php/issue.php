@@ -60,26 +60,29 @@ $(document).ready(function(){
 			<div class="about">
 				<?php 
 					$month=array("ಜನವರಿ","ಫೆಬ್ರವರಿ","ಮಾರ್ಚ್","ಏಪ್ರಿಲ್","ಮೇ","ಜೂನ್","ಜುಲೈ","ಆಗಸ್ಟ್","ಸೆಪ್ಟೆಂಬರ್","ಅಕ್ಟೋಬರ್","ನವೆಂಬರ್","ಡಿಸೆಂಬರ್");
-					include("../php/connect_db.php");
-					$year=$_GET['year'];
-					$result=mysql_query("select distinct month from article where year='$year'");
-					$num_rows=	mysql_num_rows($result);
+					include("connect_db.php");
+					$year = $_GET['year'];
+					$result = $mysqli->query("select distinct month from article where year='$year'");
+					$num_rows =	$result->num_rows;
 					
 					if($num_rows>0)
 					{
 						for($i=0;$i<$num_rows;$i++)
 						{
-							$row=mysql_fetch_assoc($result);
+							$row = $result->fetch_assoc();
+							
 							echo "<div id=\"nav_c".$year.$i."\" class=\"editor_rule\">&nbsp;</div>";
 							echo "<span class=\"title\" id=\"c".$year.$i."\"><a href=\"javascript:void(0);\">".$month[$row['month']-1]." ".$year."</a></span><br />";
 							echo "<ul id=\"nav_c".$year.$i."_ul\">";
-							$result2=mysql_query("select * from article where year=".$year." and month=".$row['month']);
-							$num_rows2=	mysql_num_rows($result2);
-							if($num_rows2>0)
+							
+							$result2 = $mysqli->query("select * from article where year=".$year." and month=".$row['month']);
+							$num_rows2 = $result2->num_rows;
+							
+							if($num_rows2 > 0)
 							{
 								for($j=0;$j<$num_rows2;$j++)
 								{
-									$row2=mysql_fetch_assoc($result2);
+									$row2 = $result2->fetch_assoc();
 									echo"<li><span class=\"articlespan\"><a href=\"../Volumes/".$year."_".$row['month'].".pdf#page=".$row2['page']."\" target=\"_blank\">".$row2['title']."</a>";if($row2['authorname']!="")echo " | <span class=\"authorspan\"><a href=\"auth.php?authid=".$row2['authid']."\">".$row2['authorname']; echo"</a></span></span></li>";
 								}
 							}
