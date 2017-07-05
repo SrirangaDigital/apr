@@ -22,7 +22,6 @@ else
 		echo $_SESSION['visitor_number'];
 	}	
 	
-	$result->free();
 	$pick_result->free();
 	$mysqli->close();
 }
