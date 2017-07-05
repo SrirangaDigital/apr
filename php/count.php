@@ -17,7 +17,7 @@ else
 	
 	if($num_results)
 	{
-		$row = $pick_result->fetch_assoc($pick_result);
+		$row = $pick_result->fetch_assoc();
 		$_SESSION['visitor_number'] = $row['count'];
 		echo $_SESSION['visitor_number'];
 	}	
