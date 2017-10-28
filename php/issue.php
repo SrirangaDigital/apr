@@ -5,7 +5,7 @@
 <title>ಅಪರಂಜಿ</title>
 <link rel="shortcut icon" href="images/aplogo.ico">
 <link href="style/reset.css"  rel="stylesheet"/>
-<link href="style/indexstyle.css"  rel="stylesheet"/>
+<link href="style/indexstyle.css?v=1.0"  rel="stylesheet"/>
 <script src="js/jquery-1.4.2.min.js"></script>
 </head>
 <body>
