@@ -16,7 +16,7 @@
             new google.elements.transliteration.TransliterationControl(options);
 
         // Enable transliteration in the textfields with the given ids.
-        var ids = [ "com_text" ];
+        var ids = [ "message" ];
         control.makeTransliteratable(ids);
 
         // Show the transliteration control which can be used to toggle between

@@ -50,16 +50,7 @@
 	</div>
 	<div class="mainpage">
 		<div class="about">
-			<form method="POST" action="sendMail.php">
-				<input name="name" type="text" class="com_name" id="name" placeholder="ಹೆಸರು" REQUIRED><br />
-				<input name="email" type="email" class="com_email" id="email"  placeholder="ಇ-ಮೇಲ್" REQUIRED><br />
-				<p class="com_title"><span class="com_title"><span class="english">Type in Kannada (Press Ctrl+g to toggle between English and Kannada)</span></span></p>
-				<textarea name="message" rows="4" class="com_text" id="message" REQUIRED style="line-height: 1.5em; font-family: Arial, Helvetica, sans-serif; font-size: 14px;"></textarea><br />
-				
-				<div class="g-recaptcha" data-sitekey="6Lf6QTYUAAAAAJ12VwYJ52C9Kq0zQUdwBjXuSy-q"></div>
-
-				<input name="com_button" type="submit" class="com_submit" id="com_button" value="Send Feedback">
-			</form>
+			<p>Your feedback was successfully sent.</p>
 		</div>
 		<?php
 			include("currentissue.php");
