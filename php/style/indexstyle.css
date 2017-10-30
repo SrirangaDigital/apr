@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Nudi';
+  src: url('NUDI UNI 01K.ttf');
+  unicode-range: U+0C80-0CFF;
+}
 html, body {
 	background-color: #FFFFFF;
 	font-size-adjust: none;
@@ -7,7 +12,7 @@ html, body {
 	font-weight: normal;
 	line-height: 1.5;
 	margin: 0;
-	font-family: sans-serif;
+	font-family: 'sans-serif';
 }
 .page {
 	width: 965px;
@@ -26,7 +31,7 @@ html, body {
 	background-repeat: no-repeat;	
 	background-color: #B8860B;
 	padding-bottom: 1em;
-	font-family: kedage;
+	font-family: 'Nudi', 'sans-serif';
 }
 .header .logo
 {
@@ -118,7 +123,7 @@ color: #B23C3C;
 	width: 100%;
 	clear: both;
 	background-color: #FFFFFF;
-	font-family: kedage;
+	font-family: 'Nudi', 'sans-serif';
 }
 .holder {
 	width: 16em;
@@ -252,7 +257,7 @@ color: #B23C3C;
 }
 .editor1 .phone{
 	color: #000000;
-	font-family: verdana;
+	font-family: 'sans-serif';
 }
 .editor2 {
 	width: 100%;
@@ -272,7 +277,7 @@ color: #B23C3C;
 }
 .editor2 .phone{
 	color: #000000;
-	font-family: verdana;
+	font-family: 'sans-serif';
 }
 .bld{
 	font-weight: bold;
@@ -370,7 +375,7 @@ color: #B23C3C;
 	margin: 0.5em;
 }
 .english {
-	font-family: verdana;
+	font-family: 'sans-serif';
 	font-weight: normal;
 	color: 000000;
 }
@@ -408,7 +413,7 @@ color: #B23C3C;
 .registerspan {
 	font-size: 0.9em;
 	color: #3D3D3D;
-	font-family: verdana;
+	font-family: 'sans-serif';
 	font-weight: normal;
 }
 .album1 {
@@ -464,38 +469,39 @@ color: #B23C3C;
 	color: #3D3D3D;
 	font-size: 0.9em;
 }
-.com_name {
-	width: 40%;
-	color: #800000;
-	font-size: 0.75em;
-	border: 1px solid #800000;
+.com_name, .com_email {
+	width: 70%;
+	color: #444;
+	font-size: 16px;
+	padding: 10px 10px 5px 10px;
+	border: none;
+	border-bottom: 1px solid #CCC;
 	margin: 0.5em 0 0.5em 0;
+	outline: none;
 }
 .com_title {
-	color: #800000;
-	font-size: 0.9em;
-}
-.com_email {
-	width: 40%;
-	color: #800000;
-	font-size: 0.75em;
-	border: 1px solid #800000;
-	margin: 0.5em 0 0.5em 0;
+	color: #444;
+	text-align: left;
+	margin-top: 20px;
 }
 .com_submit {
-	width: 15%;
-	color: #800000;
-	font-size: 0.75em;
-	border: 1px solid #800000;
-	margin: 0.5em 0 0.5em 0;
+	color: #444;
+	border: 1px solid #CCC;
+	margin: 20px 0;
+	padding: 10px 10px 5px 10px;
 	background-color: #FFFFFF;
+	cursor: pointer;
 }
 .com_text {
-	width: 64%;
+	width: 68%;
+	min-height: 120px;
 	color: #3D3D3D;
 	font-size: 0.9em;
-	border: 1px solid #800000;
+	border: 1px solid #CCC;
 	margin: 0.5em 0 0.5em 0;
+	outline: none;
+	padding: 20px;
+	font-family: 'Nudi', 'sans-serif';
 }
 .clearfix{
 	clear: both;

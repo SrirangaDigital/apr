@@ -6,9 +6,10 @@
 <title>ಅಪರಂಜಿ</title>
 <link rel="shortcut icon" href="images/aplogo.ico">
 <link href="style/reset.css"  rel="stylesheet"/>
-<link href="style/indexstyle.css"  rel="stylesheet"/>
+<link href="style/indexstyle.css?v=1.0"  rel="stylesheet"/>
 <script src="https://www.google.com/jsapi?key=ABQIAAAAcP3BWYkyhZsTIzwblwhrBhQ17cNcFve0HJQEIuu7pPDwQg6guRRne1XhHL7iYTOvNIwFI-KsDQZ-qg" ></script>
-<script  src="js/trans_load.js"></script>
+<script  src="js/trans_load.js?v=1.0"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 
 <body>
@@ -42,18 +43,23 @@
 				<li><a href="about.php">ಕೊರವಂಜಿ-ಅಪರಂಜಿ</a></li>
 				<li><a href="edit_board.php">ಅಪರಂಜಿ ಬಳಗ</a></li>
 				<li><a href="gallery.php">ಚಿತ್ರಗಳು</a></li>
-				<li><a class="active" href="javascript:void(0);">ನಿಮ್ಮ ಅನಿಸಿಕೆಗಳು</a></li>
+				<li><a class="active" href="comments.php">ನಿಮ್ಮ ಅನಿಸಿಕೆಗಳು</a></li>
 				<li><a href="volumes.php">ಹಿಂದಿನ ಸಂಚಿಕೆಗಳು</a></li>
 			</ul>
 		</div>		
 	</div>
 	<div class="mainpage">
 		<div class="about">
-<?php
+			<form method="POST" action="sendMail.php">
+				<input name="name" type="text" class="com_name" id="name" placeholder="ಹೆಸರು" REQUIRED><br />
+				<input name="email" type="email" class="com_email" id="email"  placeholder="ಇ-ಮೇಲ್" REQUIRED><br />
+				<p class="com_title"><span class="com_title"><span class="english">Type in Kannada (Press Ctrl+g to toggle between English and Kannada)</span></span></p>
+				<textarea name="message" rows="4" class="com_text" id="message" REQUIRED style="line-height: 1.5em; font-family: Arial, Helvetica, sans-serif; font-size: 14px;"></textarea><br />
+				
+				<div class="g-recaptcha" data-sitekey="6Lf6QTYUAAAAAJ12VwYJ52C9Kq0zQUdwBjXuSy-q"></div>
 
-include("insert_comments.php");
-
-?>
+				<input name="com_button" type="submit" class="com_submit" id="com_button" value="Send Feedback">
+			</form>
 		</div>
 		<?php
 			include("currentissue.php");
