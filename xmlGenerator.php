@@ -2,7 +2,8 @@
 
 	$tsvFile = 'toc.txt';
 	$tsvContent = file($tsvFile);
-	
+		
+	echo '<issue inum="" month="" year="2018">' . "\n";
 	foreach($tsvContent as $tsvLine) {
 		
 		$info = explode('|', $tsvLine);
@@ -11,12 +12,19 @@
 		echo "\t<title>" . trim($info[0]) . "</title>\n";
 		echo "\t<feature></feature>\n";
 		echo "\t<page>" . toEnglish(trim($info[2])) . "</page>\n";
-		echo "\t<allauthors>\n";
-		echo "\t\t<author lname=\"\" fname=\"\">" . trim($info[1]) . "</author>\n";
-		echo "\t</allauthors>\n";
+		if(trim($info[1]) != ""){
+			
+			echo "\t<allauthors>\n";
+			echo "\t\t<author lname=\"\" fname=\"\">" . trim($info[1]) . "</author>\n";
+			echo "\t</allauthors>\n";
+		}
+		else {
+			echo "\t<allauthors />\n";
+		}
 		echo "</entry>\n";
 		
 	}
+	echo "</issue>";
 	
 	function toEnglish($value)
 	{
