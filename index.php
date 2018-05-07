@@ -79,13 +79,19 @@ session_start();
 				for($j=0;$j<$num_rows;$j++)
 				{
 					$row=$result->fetch_assoc();
-					echo"<span class=\"titlespan\"><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=".$row['page']."\" target=\"_blank\">".$row['title']."</a><br>&#8211;<span class=\"authorspan\"><a href=\"php/auth.php?authid=".$row['authid']."\">".$row['authorname']."</a></span></span><br />";
+					echo"<span class=\"titlespan\"><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=".$row['page']."\" target=\"_blank\">".$row['title']."</a><br>";
+					
+					if($row['authorname'] != ''){ 
+						
+						echo "&#8211;<span class=\"authorspan\"><a href=\"php/auth.php?authid=".$row['authid']."\">".$row['authorname']."</a></span>";
+					}
+					echo "</span><br />";
 				}
 			}
 			echo "		  </div>
 				</div>";
 				
-			echo "<div class=\"cover\"><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\"><img src=\"php/images/cover1.png\" alt=\"".$month[$currentmonth-1]."\" title=\"".$month[$currentmonth-1]." ಸಂಚಿಕೆ\"/></a></div>";
+			echo "<div class=\"cover\"><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\"><img src=\"php/images/cover.png\" alt=\"".$month[$currentmonth-1]."\" title=\"".$month[$currentmonth-1]." ಸಂಚಿಕೆ\"/></a></div>";
 		?>
 			
 		
