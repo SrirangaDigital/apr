@@ -122,7 +122,7 @@ session_start();
 		</div>
 	</div>
 		<?php
-			include("footer.php");
+			include("php/footer.php");
 		?>
 </div>
 </body>
