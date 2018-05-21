@@ -96,23 +96,9 @@ $(document).ready(function(){
 				include("currentissue.php");
 			?>
 	</div>
-	<div class="footer">
-		<div class="foot_box">
-			<div class="left">
-				<ul>
-					<li><a href="javascript:void(0);">Terms of Use</a></li>
-					<li>|</li>
-
-					<li><a href="javascript:void(0);">Privacy Policy</a></li>
-					<li>|</li>		
-					<li><a href="contact.php">Contact us</a></li>				
-				</ul>
-			</div>
-			<div class="right">
-				&copy;2011-2014 Koravanji Aparanji Trust, Bangalore. All Rights Reserved
-			</div>
-		</div>
-	</div>
+		<?php
+			include("footer.php");
+		?>
 </div>
 </body>
 

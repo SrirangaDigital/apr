@@ -18,11 +18,11 @@
 		for($j=0;$j<$num_rows;$j++)
 		{
 			$row=$result->fetch_assoc();
-			echo"<span class=\"titlespan\"><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=".$row['page']."\" target=\"_blank\">".$row['title']."</a><br>";
+			echo"<span class=\"titlespan\"><a href=\"/Volumes/".$currentyear."_".$currentmonth.".pdf#page=".$row['page']."\" target=\"_blank\">".$row['title']."</a><br>";
 			
 			if($row['authorname'] != ''){ 
 				
-				echo "&#8211;<span class=\"authorspan\"><a href=\"php/auth.php?authid=".$row['authid']."\">".$row['authorname']."</a></span>";
+				echo "&#8211;<span class=\"authorspan\"><a href=\"/php/auth.php?authid=".$row['authid']."\">".$row['authorname']."</a></span>";
 			}
 			echo "</span><br />";
 		}
