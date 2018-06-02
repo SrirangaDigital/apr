@@ -6,7 +6,7 @@
 <title>ಅಪರಂಜಿ</title>
 <link rel="shortcut icon" href="images/aplogo.ico">
 <link href="style/reset.css"  rel="stylesheet"/>
-<link href="style/indexstyle.css?v=1.0"  rel="stylesheet"/>
+<link href="style/indexstyle.css?v=2.0"  rel="stylesheet"/>
 <script src="https://www.google.com/jsapi?key=ABQIAAAAcP3BWYkyhZsTIzwblwhrBhQ17cNcFve0HJQEIuu7pPDwQg6guRRne1XhHL7iYTOvNIwFI-KsDQZ-qg" ></script>
 <script  src="js/trans_load.js?v=1.0"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>

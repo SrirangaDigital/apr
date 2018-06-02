@@ -6,7 +6,7 @@
 <title>ಅಪರಂಜಿ</title>
 <link rel="shortcut icon" href="images/aplogo.ico">
 <link href="style/reset.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="style/indexstyle.css?v=1.0" media="screen" rel="stylesheet" type="text/css" />
+<link href="style/indexstyle.css?v=2.0" media="screen" rel="stylesheet" type="text/css" />
 </head>
 <body>
 <div class="page">

@@ -6,7 +6,7 @@
 <title>ಅಪರಂಜಿ</title>
 <link rel="shortcut icon" href="images/aplogo.ico">
 <link href="style/reset.css"  rel="stylesheet"  />
-<link href="style/indexstyle.css?v=1.0"  rel="stylesheet"  />
+<link href="style/indexstyle.css?v=2.0"  rel="stylesheet"  />
 <script  src="js/prototype.js"></script>
 <script  src="js/scriptaculous.js?load=effects,builder"></script>
 <script  src="js/lightbox.js"></script>
