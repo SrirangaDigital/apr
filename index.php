@@ -9,7 +9,7 @@ session_start();
 	<title>ಅಪರಂಜಿ</title>
 	<link rel="shortcut icon" href="php/images/aplogo.ico">
 	<link href="php/style/reset.css" rel="stylesheet"/>
-	<link href="php/style/indexstyle.css?v=1.0" rel="stylesheet"/>
+	<link href="php/style/indexstyle.css?v=2.0" rel="stylesheet"/>
 </head>
 
 
