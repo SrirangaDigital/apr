@@ -10943,5 +10943,93 @@
 				</allauthors>
 			</entry>
 		</issue>
+		<issue inum="09" month="06" year="2018">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature></feature>
+				<page>3</page>
+				<allauthors>
+					<author lname="ಪ್ರಕಾಶ್" fname=""> ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಓದುಗರ</title>
+				<feature></feature>
+				<page>4</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶರಲೇಖನ ಪುನರಾಗಮನ</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="ವತ್ಸನ" fname=""> ವತ್ಸನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎರಡು ಕಿರುಗತೆಗಳು</title>
+				<feature></feature>
+				<page>10</page>
+				<allauthors>
+					<author lname="ಸೂರಿ" fname="ಹಾ.ಮೈ">ಹಾ.ಮೈ ಸೂರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುನ್ನುಡಿ</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="ಸತ್ಯ" fname="ಸಿ.ಆರ್.">ಸಿ.ಆರ್. ಸತ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾಮನ್ ರೂಮ್ ಕಹಾನಿ</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="ಹೆಗ್ಗಡೆ" fname="ಗಣೇಶ">ಗಣೇಶ ಹೆಗ್ಗಡೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಟೋರಾಜನ ಆಟಾಟೋಪ</title>
+				<feature></feature>
+				<page>20</page>
+				<allauthors>
+					<author lname="ಫಟಿಕಾರ್" fname="ಆರತಿ">ಆರತಿ ಫಟಿಕಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀವು ಯಾರು ?</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="ವಿಶ್ವನಾಥ್" fname="ಪಾಲಹಳ್ಳಿ ">ಪಾಲಹಳ್ಳಿ  ವಿಶ್ವನಾಥ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಡಾ. ಪ್ರಭುಶಂಕರ</title>
+				<feature></feature>
+				<page>29</page>
+				<allauthors>
+					<author lname="ಕೃಷ್ಣೇಗೌಡ" fname="ಪ್ರೊ.ಎಂ.">ಪ್ರೊ.ಎಂ. ಕೃಷ್ಣೇಗೌಡ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾಯಿಲೆಗಿಂತ ಕಷಾಯ ಕಹಿ</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="ರತ್ನ" fname="ನ.">ನ. ರತ್ನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಟಕವೂ... ಮಳೆಯೂ...</title>
+				<feature></feature>
+				<page>38</page>
+				<allauthors>
+					<author lname="ದೇಸಾಯಿ" fname="ಗುಂಡುರಾವ್">ಗುಂಡುರಾವ್ ದೇಸಾಯಿ</author>
+				</allauthors>
+			</entry>
+		</issue>
 	</volume>
 </apr>
