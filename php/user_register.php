@@ -6,9 +6,8 @@
 <title>ಅಪರಂಜಿ</title>
 <link rel="shortcut icon" href="images/aplogo.ico">
 <link href="style/reset.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="style/indexstyle.css?v=1.0" media="screen" rel="stylesheet" type="text/css" />
+<link href="style/indexstyle.css?v=2.0" media="screen" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
 <div class="page">
 	<div class="header">
@@ -195,23 +194,9 @@ elseif($flag == 0)
 			</div>
 		</div>
 	</div>
-	<div class="footer">
-		<div class="foot_box">
-			<div class="left">
-				<ul>
-					<li><a href="javascript:void()">Terms of Use</a></li>
-					<li>|</li>
-
-					<li><a href="javascript:void()">Privacy Policy</a></li>
-					<li>|</li>		
-					<li><a href="javascript:void()">Contact us</a></li>				
-				</ul>
-			</div>
-			<div class="right">
-				&copy;2011-2014 Koravanji Aparanji Trust, Bangalore. All Rights Reserved
-			</div>
-		</div>
-	</div>
+		<?php
+			include("footer.php");
+		?>
 </div>
 </body>
 
