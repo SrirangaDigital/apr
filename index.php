@@ -91,7 +91,7 @@ session_start();
 			echo "		  </div>
 				</div>";
 				
-			echo "<div class=\"cover\"><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\"><img src=\"php/images/cover.png\" alt=\"".$month[$currentmonth-1]."\" title=\"".$month[$currentmonth-1]." ಸಂಚಿಕೆ\"/></a></div>";
+			echo "<div class=\"cover\"><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\"><img src=\"php/images/cover1.png\" alt=\"".$month[$currentmonth-1]."\" title=\"".$month[$currentmonth-1]." ಸಂಚಿಕೆ\"/></a></div>";
 		?>
 			
 		
