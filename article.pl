@@ -95,7 +95,7 @@ sub insert_article()
 	$title =~ s/'/\\'/g;
 	$authname =~ s/^;//;
 	$authid =~ s/^;//;
-	$sth1=$dbh->prepare("insert into article values('$title','$authid','$authname','$fid','$page','$vnum','$inum','$year','$month','')");
+	$sth1=$dbh->prepare("insert into article values('$title','$authid','$authname','$fid','$page','$vnum','$inum','$year','$month', null)");
 	$sth1->execute();
 	$sth1->finish();
 }
