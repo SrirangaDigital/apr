@@ -3,7 +3,7 @@
 	$tsvFile = 'toc.txt';
 	$tsvContent = file($tsvFile);
 		
-	echo '<issue inum="" month="" year="2018">' . "\n";
+	echo '<issue inum="" month="" year="2019">' . "\n";
 	foreach($tsvContent as $tsvLine) {
 		
 		$info = explode('|', $tsvLine);
