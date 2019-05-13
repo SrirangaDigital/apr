@@ -11,7 +11,7 @@
 		echo "<entry>\n";
 		echo "\t<title>" . trim($info[0]) . "</title>\n";
 		echo "\t<feature></feature>\n";
-		echo "\t<page>" . intval(toEnglish(trim($info[2])) + 1) . "</page>\n";
+		echo "\t<page>" . intval(toEnglish(trim($info[2]))) . "</page>\n";
 		if(trim($info[1]) != ""){
 			
 			echo "\t<allauthors>\n";
