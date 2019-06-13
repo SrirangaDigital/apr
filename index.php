@@ -69,7 +69,7 @@ session_start();
 			$currentmonth=$row['month'];
 			
 			echo "<div class=\"holder\">";
-			echo "<div class=\"holder_title\"><img src=\"php/images/theme.png?v-1\" alt=\"Theme Image\"/>&nbsp;<a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\">".$month[$currentmonth-1]." ".$currentyear."</a></div>";
+			echo "<div class=\"holder_title\"><img src=\"php/images/theme.png?v-2\" alt=\"Theme Image\"/>&nbsp;<a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\">".$month[$currentmonth-1]." ".$currentyear."</a></div>";
 			echo "<div class=\"holder_area\">";
 			$result = $mysqli->query("select * from article where volume = $volume and issue= $issue ");
 			$num_rows=	$result->num_rows;
@@ -91,7 +91,7 @@ session_start();
 			echo "		  </div>
 				</div>";
 				
-			echo "<div class=\"cover\"><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\"><img src=\"php/images/cover.png\" alt=\"".$month[$currentmonth-1]."\" title=\"".$month[$currentmonth-1]." ಸಂಚಿಕೆ\"/></a></div>";
+			echo "<div class=\"cover\"><a href=\"Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\"><img src=\"php/images/cover1.png\" alt=\"".$month[$currentmonth-1]."\" title=\"".$month[$currentmonth-1]." ಸಂಚಿಕೆ\"/></a></div>";
 		?>
 			
 		
