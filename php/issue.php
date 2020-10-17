@@ -58,7 +58,7 @@ $(document).ready(function(){
 	</div>
 	<div class="mainpage">
 			<div class="about">
-				<?php 
+				<?php 	
 					$month=array("ಜನವರಿ","ಫೆಬ್ರವರಿ","ಮಾರ್ಚ್","ಏಪ್ರಿಲ್","ಮೇ","ಜೂನ್","ಜುಲೈ","ಆಗಸ್ಟ್","ಸೆಪ್ಟೆಂಬರ್","ಅಕ್ಟೋಬರ್","ನವೆಂಬರ್","ಡಿಸೆಂಬರ್");
 					include("connect_db.php");
 					$year = $_GET['year'];
@@ -77,13 +77,22 @@ $(document).ready(function(){
 							
 							$result2 = $mysqli->query("select * from article where year=".$year." and month=".$row['month']);
 							$num_rows2 = $result2->num_rows;
-							
 							if($num_rows2 > 0)
 							{
 								for($j=0;$j<$num_rows2;$j++)
 								{
 									$row2 = $result2->fetch_assoc();
-									echo"<li><span class=\"articlespan\"><a href=\"../Volumes/".$year."_".$row['month'].".pdf#page=".$row2['page']."\" target=\"_blank\">".$row2['title']."</a>";if($row2['authorname']!="")echo " | <span class=\"authorspan\"><a href=\"auth.php?authid=".$row2['authid']."\">".$row2['authorname']; echo"</a></span></span></li>";
+									echo"<li><span class=\"articlespan\"><a href=\"../Volumes/".$year."_".$row['month'].".pdf#page=".$row2['page']."\" target=\"_blank\">".$row2['title']."</a></span>";if($row2['authorname']!="") echo " | 
+									<span class=\"authorspan\"><a href=\"auth.php?authid=".$row2['authid']."\">".$row2['authorname']; echo"</a></span>&nbsp;&nbsp;&nbsp";
+
+
+									echo "<a href=\"mailto:Enter Your Email Address Here?subject=Aparanji&body=<b><h2>Aparanji Magazine</h2></b> %0D%0A
+									        <h3>".$row2['title']."</h3>
+									        <i>".$row2['authorname']."</i>%0D%0A %0D%0A
+											click following link to view article %0D%0A%0D%0A
+											http://localhost/apr/Volumes/" . $year . "_" . $row['month'].".pdf#page=".$row2['page']."\">
+											<img src=../php/images/share2.jpg alt='image' height='15px' width='20px'></a>";
+									"</li>";
 								}
 							}
 							echo "</ul><br />";
@@ -92,7 +101,8 @@ $(document).ready(function(){
 				
 				?>
 			</div>
-			<?php 
+			<?php
+
 				include("currentissue.php");
 			?>
 	</div>
