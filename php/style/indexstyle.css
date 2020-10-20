@@ -543,3 +543,7 @@ color: #B23C3C;
 	height: 20px; 
 	vertical-align: middle;
 }
+img.sharethisimg{
+	vertical-align: middle;
+	width: 20px !important;
+}

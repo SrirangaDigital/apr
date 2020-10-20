@@ -331,3 +331,11 @@ html, body {
 .span2 {
 	color: #FFD700;
 }
+a.sharethis{
+	text-decoration: none;
+}
+
+img.sharethisimg{
+
+	width: 50px !important;
+}
