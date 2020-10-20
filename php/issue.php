@@ -83,18 +83,19 @@ $(document).ready(function(){
 								{
 									$row2 = $result2->fetch_assoc();
 									echo"<li><span class=\"articlespan\"><a href=\"../Volumes/".$year."_".$row['month'].".pdf#page=".$row2['page']."\" target=\"_blank\">".$row2['title']."</a></span>";if($row2['authorname']!="") echo " | 
-									<span class=\"authorspan\"><a href=\"auth.php?authid=".$row2['authid']."\">".$row2['authorname']; echo"</a></span>&nbsp;&nbsp;&nbsp";
+									<span class=\"authorspan\"><a href=\"auth.php?authid=".$row2['authid']."\">".$row2['authorname']; 
+									echo"</a></span>&nbsp;&nbsp;&nbsp";
 
 
-									echo "<a href=\"mailto:Enter Your Email Address Here?subject=Aparanji&body=<b><h2>Aparanji Magazine</h2></b> %0D%0A
-									        <h3>".$row2['title']."</h3>
-									        <i>".$row2['authorname']."</i>%0D%0A %0D%0A
-											click following link to view article %0D%0A%0D%0A
-											http://localhost/apr/Volumes/" . $year . "_" . $row['month'].".pdf#page=".$row2['page']."\">
-											<img src=../php/images/share2.jpg alt='image' height='15px' width='20px'></a>";
+									echo "<a class=\"sharethis\"href=\"mailto:Enter Your Email Address Here?subject=Aparanji&body=<b><h2>Aparanji Magazine</h2></b>
+									<h3>".$row2['title']."</h3>%0D%0A%0D%0A
+									<i>".$row2['authorname']."</i>%0D%0A%0D%0A
+									click following link to view article%0D%0A%0D%0A
+									http://localhost/apr/Volumes/".$year . "_" . $row['month'].".pdf#page=".$row2['page']."\"><img class=\"sharethisimg\" src =\"../php/images/images.png\"  title=\"Share this article\"></a>";
 									"</li>";
-								}
+								}	
 							}
+					
 							echo "</ul><br />";
 						}
 					}
