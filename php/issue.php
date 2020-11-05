@@ -91,7 +91,7 @@ $(document).ready(function(){
 									<h3>".$row2['title']."</h3>%0D%0A%0D%0A
 									<i>".$row2['authorname']."</i>%0D%0A%0D%0A
 									click following link to view article%0D%0A%0D%0A
-									http://aparanjimag.in/".$year . "_" . $row['month'].".pdf#page=".$row2['page']."\"><img class=\"sharethisimg\" src =\"../php/images/share.png\"  title=\"Share this article\"></a>";
+									http://aparanjimag.in/Volumes/".$year . "_" . $row['month'].".pdf#page=".$row2['page']."\"><img class=\"sharethisimg\" src =\"../php/images/share.png\"  title=\"Share this article\"></a>";
 									"</li>";
 								}	
 							}
