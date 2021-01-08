@@ -14741,7 +14741,7 @@
 	</allauthors>
 </entry>
 </issue>
-<issue inum="03" month="12" year="2020">
+	<issue inum="03" month="12" year="2020">
 <entry>
 	<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
 	<feature></feature>
@@ -14860,6 +14860,88 @@
 	<page>40</page>
 	<allauthors>
 		<author lname="" fname="">ಧಾರಣಿ ಮಾಯಾ</author>
+	</allauthors>
+</entry>
+</issue>
+<issue inum="04" month="01" year="2021">
+<entry>
+	<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+	<feature></feature>
+	<page>3</page>
+	<allauthors>
+		<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+	<feature></feature>
+	<page>4</page>
+	<allauthors>
+		<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ವ್ಯಂಗ್ಯಚಿತ್ರ - ಚರಿತ್ರೆ</title>
+	<feature></feature>
+	<page>6</page>
+	<allauthors>
+		<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಭೂಮಿ ಮೇಲಿನವರು</title>
+	<feature></feature>
+	<page>9</page>
+	<allauthors>
+		<author lname="" fname="">ಕುಮುದಾ ಪುರುಷೋತ್ತಮ್</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಹೊಸ ವರುಷ - ಹಳೆಯ ನೆನಪು</title>
+	<feature></feature>
+	<page>11</page>
+	<allauthors>
+		<author lname="" fname="">ಸಿ. ಆರ್. ಸತ್ಯ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಆ ಐದು ದಿನಗಳು</title>
+	<feature></feature>
+	<page>18</page>
+	<allauthors>
+		<author lname="" fname="">ಗೌತಮ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ರಸ ನಿಮಿಷಗಳು</title>
+	<feature></feature>
+	<page>24</page>
+	<allauthors>
+		<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಹೀಗೊಂದು ಕಾಫಿ ಪುರಾಣ</title>
+	<feature></feature>
+	<page>26</page>
+	<allauthors>
+		<author lname="" fname="">ವಿದ್ಯಾ ಮೂರ್ತಿ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ತುಂತುರು</title>
+	<feature></feature>
+	<page>31</page>
+	<allauthors>
+		<author lname="" fname="">ದಂನಆ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ದೇಹ ಹೀಗಿರಬೇಕಿತ್ತು</title>
+	<feature></feature>
+	<page>32</page>
+	<allauthors>
+		<author lname="" fname="">ಸವಾಲು - ಜವಾಬು</author>
 	</allauthors>
 </entry>
 </issue>
