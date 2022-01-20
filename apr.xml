@@ -16431,7 +16431,7 @@
 	<allauthors />
 </entry>
 </issue>
-<issue inum="03" month="12" year="2021">
+	<issue inum="03" month="12" year="2021">
 <entry>
 	<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
 	<feature></feature>
@@ -16558,6 +16558,128 @@
 	<page>41</page>
 	<allauthors>
 		<author lname="" fname="">ವಿ. ವಿಜಯೇಂದ್ರ ರಾವ್</author>
+	</allauthors>
+</entry>
+</issue>
+	<issue inum="04" month="01" year="2022">
+<entry>
+	<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+	<feature></feature>
+	<page>3</page>
+	<allauthors>
+		<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ನಮ್ಮನಮ್ಮಲ್ಲಿ</title>
+	<feature></feature>
+	<page>4</page>
+	<allauthors>
+		<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಗೋಧಿ ಬಣ್ಣ - (ಅ)ಸಾಧಾರಣ...</title>
+	<feature></feature>
+	<page>7</page>
+	<allauthors>
+		<author lname="" fname="">ಗಣೇಶ ಹೆಗಡೆ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ರಾಶಿ ದರ್ಶನ</title>
+	<feature></feature>
+	<page>10</page>
+	<allauthors>
+		<author lname="" fname="">ಸಂಪಟೂರು ವಿಶ್ವನಾಥ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ನನ್ನಾಕೆಯ ಸುತ್ತ</title>
+	<feature></feature>
+	<page>11</page>
+	<allauthors>
+		<author lname="" fname="">ಕೆ. ರಮೇಶ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಇರುವೆ ಮತ್ತು ಮಿಡಿತೆ</title>
+	<feature></feature>
+	<page>14</page>
+	<allauthors>
+		<author lname="" fname="">ಶಿವು</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಅಜ್ಜನಿಗೆ ಸಾಧ್ಯವಾಗದೇ...</title>
+	<feature></feature>
+	<page>16</page>
+	<allauthors>
+		<author lname="" fname="">ಬೇಲೂರು ರಾಮಮೂರ್ತಿ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ನರಿ ಮತ್ತು ಹುಳಿ ದ್ರಾಕ್ಷಿ</title>
+	<feature></feature>
+	<page>18</page>
+	<allauthors>
+		<author lname="" fname="">ಆನಂದ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಪ್ರತ್ಯುನ್ನತಿ ಮತ್ತು .....</title>
+	<feature></feature>
+	<page>20</page>
+	<allauthors>
+		<author lname="" fname="">ಜಯಶ್ರೀ ದೇಶಪಾಂಡೆ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಸುಳ್ಳು ಮತ್ತು ಎಚ್ಚರಿಕೆ!</title>
+	<feature></feature>
+	<page>22</page>
+	<allauthors>
+		<author lname="" fname="">ಗೌತಮ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಮೀನಾಕುಮಾರಿ ಮತ್ತು ಮಿ. AD</title>
+	<feature></feature>
+	<page>24</page>
+	<allauthors>
+		<author lname="" fname="">ಚಿತ್ರಾ ರಾಮಚಂದ್ರನ್</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ನಿಮ್ಮ ಚಪ್ಪಲಿಗೆ ನೀವೇ ಜವಾಬ್ದಾರರು</title>
+	<feature></feature>
+	<page>28</page>
+	<allauthors>
+		<author lname="" fname="">ಅನಿತಾ ನಾಡಿಗ್</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ತುಂತುರು</title>
+	<feature></feature>
+	<page>33</page>
+	<allauthors>
+		<author lname="" fname="">ದನಂಆ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ಇರುವುದೆಲ್ಲವ ಬಿಟ್ಟು</title>
+	<feature></feature>
+	<page>35</page>
+	<allauthors>
+		<author lname="" fname="">ಲತಾ ಹೆಗಡೆ</author>
+	</allauthors>
+</entry>
+<entry>
+	<title>ದೇಖೋ ಬೇಟಾ...</title>
+	<feature></feature>
+	<page>38</page>
+	<allauthors>
+		<author lname="" fname="">ಗುಂಡೂ ರಾವ್ ದೇಸಾಯಿ</author>
 	</allauthors>
 </entry>
 </issue>
