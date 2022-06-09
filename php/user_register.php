@@ -13,7 +13,7 @@
 	<div class="header">
 		<div id="headnav">
 			<ul>
-				<li><a href<li><a href="javascript:void()">Register</a></li>
+				<li><a href="javascript:void()">Register</a></li>
 				<li>|</li>
 				<li><a href="javascript:void()">Font Help</a></li>
 				<li>|</li>
