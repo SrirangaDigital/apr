@@ -8,7 +8,7 @@
 	$currentmonth=$row['month'];
 	
 	echo "<div class=\"holder\">";
-	echo "<div class=\"holder_title\"><img src=\"../php/images/theme.JPG?v=6\" alt=\"Theme Image\"/>&nbsp;<a href=\"../Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\">".$month[$currentmonth-1]." ".$currentyear."</a></div>";
+	echo "<div class=\"holder_title\"><img src=\"../php/images/theme.jpg?v=6\" alt=\"Theme Image\"/>&nbsp;<a href=\"../Volumes/".$currentyear."_".$currentmonth.".pdf#page=1\" target=\"_blank\">".$month[$currentmonth-1]." ".$currentyear."</a></div>";
 	echo "<div class=\"holder_area\">";
 	$result = $mysqli->query("select * from article where volume = $volume and issue= $issue ");
 	$num_rows=	$result->num_rows;

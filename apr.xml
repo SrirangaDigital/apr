@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE apr SYSTEM "res.dtd">
-
 <apr>
 	<volume vnum="28">
 		<issue inum="04" month="01" year="2011">
@@ -18168,6 +18167,136 @@
 				<page>42</page>
 				<allauthors>
 					<author lname="" fname="">ಮಂಗಳ ಎಂ. ನಾಡಿಗ್</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="02" year="2023">
+			<entry>
+				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
+				<feature></feature>
+				<page>6</page>
+				<allauthors>
+					<author lname="" fname="">ಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ನಿಮ್ಮಲ್ಲಿ</title>
+				<feature></feature>
+				<page>7</page>
+				<allauthors>
+					<author lname="" fname="">ಎಂ. ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಕ್ರಾಂತಿ - 2023</title>
+				<feature></feature>
+				<page>9</page>
+				<allauthors>
+					<author lname="" fname="">ಶಿವಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>360° ಶಿಕ್ಷಾಲೋಕ</title>
+				<feature></feature>
+				<page>12</page>
+				<allauthors>
+					<author lname="" fname="">ಎಸ್. ಎನ್. ಗಣನಾಥ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಐ....ಸ್ಕ್ರೀಮ್.....!!!!!</title>
+				<feature></feature>
+				<page>15</page>
+				<allauthors>
+					<author lname="" fname="">ಸಿ. ಎ. ವಿಲಾಸ ಹುದ್ದಾರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಯಸಿದ್ದು ದಕ್ಕಿದ್ದು</title>
+				<feature></feature>
+				<page>17</page>
+				<allauthors>
+					<author lname="" fname="">ನಾಗರತ್ನ ಭಟ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಫೋಟೋ ಶೂಟ್</title>
+				<feature></feature>
+				<page>18</page>
+				<allauthors>
+					<author lname="" fname="">ಜಿ. ವಿ. ನಿರ್ಮಲ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಾರ್ಕಿಂಗ್ ಪ್ರಮೇಯದ ಫಜೀತಿ</title>
+				<feature></feature>
+				<page>21</page>
+				<allauthors>
+					<author lname="" fname="">ಕೆ. ಎಸ್. ಸೋಮೇಶ್ವರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ</title>
+				<feature></feature>
+				<page>23</page>
+				<allauthors>
+					<author lname="" fname="">ಪುಷ್ಪಲತ ಟಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೂಲಿನಂತೆ ಸೀರೆ, ತಾಯಿಯಂತಲ್ಲ ಮಗಳು</title>
+				<feature></feature>
+				<page>27</page>
+				<allauthors>
+					<author lname="" fname="">ನಳಿನಿ ಸೂರ್ಯಪ್ರಕಾಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರೋಬೊಟ್ ರಗಳೆ</title>
+				<feature></feature>
+				<page>30</page>
+				<allauthors>
+					<author lname="" fname="">ಅರವಿಂದ ಜೋಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಣುಕು ಮಿಣುಕು</title>
+				<feature></feature>
+				<page>33</page>
+				<allauthors>
+					<author lname="" fname="">ವಿ. ವಿಜಯೇಂದ್ರ ರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತುಂತುರು</title>
+				<feature></feature>
+				<page>36</page>
+				<allauthors>
+					<author lname="" fname="">ದಂನಆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಳೆದೋಯ್ತ್ ಅಂತ ಕುಣಿದಾಡ್ತೀನಿ.....!</title>
+				<feature></feature>
+				<page>37</page>
+				<allauthors>
+					<author lname="" fname="">ಸುಮಾ ರಮೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾಫಿ ಎಂಬ ಸಖನ ಕುರಿತು !</title>
+				<feature></feature>
+				<page>40</page>
+				<allauthors>
+					<author lname="" fname="">ಜೋಗಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಘಮ ಘಮ ಮಸಾಲೆ ದೋಸೆ</title>
+				<feature></feature>
+				<page>44</page>
+				<allauthors>
+					<author lname="" fname="">ವೈ. ಎನ್. ಗುಂಡೂರಾವ್</author>
 				</allauthors>
 			</entry>
 		</issue>
