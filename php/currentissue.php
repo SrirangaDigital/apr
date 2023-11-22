@@ -18,7 +18,7 @@
 		for($j=0;$j<$num_rows;$j++)
 		{
 			$row=$result->fetch_assoc();
-			echo"<span class=\"titlespan\"><a href=\"/Volumes/".$currentyear."_".$currentmonth.".pdf#page=".$row['page']."\" target=\"_blank\">".$row['title']."</a><br>";
+			echo"<span class=\"titlespan\"><a href=\"../Volumes/".$currentyear."_".$currentmonth.".pdf#page=".$row['page']."\" target=\"_blank\">".$row['title']."</a><br>";
 			
 			if($row['authorname'] != ''){ 
 				
