@@ -24546,6 +24546,7 @@
 				</allauthors>
 			</entry>
 		</issue>
+<<<<<<< HEAD
 		<issue inum="02" month="11" year="2026">
 			<entry>
 				<title>ಅಪರಂಜಿ ಕಿಡಿ</title>
@@ -24668,5 +24669,7 @@
 				</allauthors>
 			</entry>
 		</issue>
+=======
+>>>>>>> 55ae50baf628a7d5de3b828d07e70ffaab7d2b7b
 	</volume>
 </apr>
